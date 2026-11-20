@@ -2,7 +2,7 @@
   "title": "Quest 9: The Help Forum",
   "stages": [
     {
-      "question": "`forum/q-1042.md` を参考にして、`mapping.py` の `is_mapping()` を動くようにしてください。それから `python mapping.py` を実行します。表示される単語は？",
+      "question": "`forum/q-1042.md`（Web サイトでは https://kwaka1208.github.io/northwind-developers/answers/q-1042.html）を参考にして、`mapping.py` の `is_mapping()` を動くようにしてください。それから `python mapping.py` を実行します。表示される単語は？",
       "answer_sha256": "8a62e967fcd6dfa5d75308c37808b4668a7faf1cdb06e09ac0a7161827603887"
     },
     {
@@ -10,7 +10,7 @@
       "answer_sha256": "647d177cca8601046a3cb39e12f55bec5790bfcbc42199dd5fcf063200fac1d0"
     },
     {
-      "question": "`forum/q-1500.md` を参考にして、`tickets.py` の `clean()` を動くようにしてください。それから `python tickets.py` を実行します。表示される単語は？",
+      "question": "`forum/q-1500.md`（Web サイトでは https://kwaka1208.github.io/northwind-developers/answers/q-1500.html）を参考にして、`tickets.py` の `clean()` を動くようにしてください。それから `python tickets.py` を実行します。表示される単語は？",
       "answer_sha256": "bb4c8eb92b6ec7b9055c94a397581544693c61da0f8f6cbb808681ccd0d9ce9b"
     }
   ],

@@ -47,6 +47,10 @@ https://kwaka1208.github.io/northwind-developers/answers/
 
 同じ質問と回答が、このクエストの `forum/` フォルダにも入っています。中身は同じなので、どちらを読んでもかまいません。
 
+ファイルの名前と Web サイトのページは対応しています。たとえば `forum/q-1042.md` は、次のページです。
+
+https://kwaka1208.github.io/northwind-developers/answers/q-1042.html
+
 ## Q&A のページの読み方
 
 1つのページには、**質問**が1つと、**回答**がいくつかあります。次のところを見ましょう。
