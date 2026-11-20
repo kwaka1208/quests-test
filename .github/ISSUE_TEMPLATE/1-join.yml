@@ -9,6 +9,9 @@ body:
         ようこそ！ このフォームに記入して、クラスに参加しましょう。
         このリポジトリは**公開**されています。インターネット上の誰でも読めます。
         **本名は書かないでください。**
+
+        > **出す場所を確かめてください。** このページのアドレスが `github.com/kwaka1208/quests-test/` で始まっていなければ、ここではありません（自分の fork などです）。
+        > ここで出しても、bot は返信せず、記録にも残りません。[元のリポジトリの New issue](https://github.com/kwaka1208/quests-test/issues/new/choose) から出し直してください。
   - type: input
     id: handle
     attributes:
