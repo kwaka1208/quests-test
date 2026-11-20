@@ -1,0 +1,20 @@
+{
+  "title": "Quest 11: The Code Notes",
+  "stages": [
+    {
+      "question": "`points_for()` の docstring を読んでください。5ドルのランチのポイントをたずねるように `price_check.py` を直し、実行します。表示される単語は？",
+      "answer_sha256": "6f32860910ca0fb2a20c7fda143666b09dbf8db5238195c90a586fb542ff0cad"
+    },
+    {
+      "question": "`old_bonus()` はもう使えません。docstring とコメントを読んで `bonus_check.py` を直し、実行してください。表示される単語は？",
+      "answer_sha256": "14069429150abcbf244c4c2fb2c4c46a49c93ca9457263ecd9ebb176de3a58bb"
+    },
+    {
+      "question": "`order_check.py` で、コードが受け付けるいちばん大きな注文を作り、実行してください。表示される単語は？",
+      "answer_sha256": "8923fedfd16a77b1fe21280b253ff53d77b75e9c71de5155e40754ad53847fc2"
+    }
+  ],
+  "submit_url": "https://github.com/kwaka1208/quests-test/issues/new/choose",
+  "quests_name": "ルーキークエストテスト",
+  "explanation": "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"
+}

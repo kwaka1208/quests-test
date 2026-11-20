@@ -1,0 +1,11 @@
+NOX 1.0
+# orders for Monday, from the old system
+N0101|salad|2|2026-12-14
+N0102|sandwich|1|2026-12-14
+N0103|coffee|3|2026-12-14
+# N0104 was cancelled
+N0105|SALAD|2|2026-12-14
+N0106|cookie|20|2026-12-14
+N0107|coffee|0|2026-12-14
+N0108|sandwich|1|2026-12-14
+END

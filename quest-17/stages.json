@@ -1,0 +1,20 @@
+{
+  "title": "Quest 17: The Review Room",
+  "stages": [
+    {
+      "question": "`review.md` を読んでください。`triage.txt` でレビューとコメントを仕分けて、`python triage.py` を実行します。合言葉（code word）は？",
+      "answer_sha256": "5751e048eb6fee3eb9bb4ea70f107f19c35863766bee5100044e52ab60d9edcf"
+    },
+    {
+      "question": "マージの前に必ず直さなければならないコメントだけを `points.py` で直し、`python test_review.py` を実行してください。合言葉（code word）は？",
+      "answer_sha256": "6761f4ad02defb5a5293ed67624f994706dc5f706390927e1731180ad0113d73"
+    },
+    {
+      "question": "時間が余ったので、Kaito の小さなコメントにも対応します。それから `python test_review.py --nit` を実行してください。nit の合言葉（code word）は？",
+      "answer_sha256": "8a741eb9c8922e9e08fc1b0538535461c44d22bd48e1ed6bd7424f3fe7d78745"
+    }
+  ],
+  "submit_url": "https://github.com/kwaka1208/quests-test/issues/new/choose",
+  "quests_name": "ルーキークエストテスト",
+  "explanation": "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"
+}

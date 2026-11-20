@@ -1,0 +1,16 @@
+{
+  "title": "Quest 10: The Good Question",
+  "stages": [
+    {
+      "question": "`question.md` の4つの部分を埋めてください。それから `python check.py --stage 1` を実行します。チェッカーが表示した単語は？",
+      "answer_sha256": "a8b771920b8319e47251d1360f5e880bc18e8d329b0f0d003ea3c7e615558947"
+    },
+    {
+      "question": "質問を、答えやすいものにしてください。それから `python check.py --stage 2` を実行します。チェッカーが表示した単語は？",
+      "answer_sha256": "c51faa148557a08cbf790156578b7a82b41f22dd01227f7dde057e34c18a365f"
+    }
+  ],
+  "submit_url": "https://github.com/kwaka1208/quests-test/issues/new/choose",
+  "quests_name": "ルーキークエストテスト",
+  "explanation": "WARjS1P1iVfxxcf/MoNZsgGWwNHRZYQwxIoKsOPkB6F5OF7UD7KW4Iz6GZXMVsXJNPMx11qsgZTFifB4QcaiVbXJqdeAZIvnEgmZdsaMA1e418tybfhpvctXwQXTKp+2ByUnd4hAm7ksSBSXymeOL9j9hLCHI5hxJ7Hy78/H688iPFJ92TnNQ9w0tWm9WL0jNtSqmt8oyR0if4YmBoLJ/dEwsdHtymLb9TQedgN87GuXz2VZierzb0Nv4w7VoTyu8+YG1NE2leD6EDU4qJ3EDTm5ST9omtq81TzJcltNfCQvozTnSMfOuGOu3D7HXbha5cHINI30sntwtSxLjV4v/6MILHi7J/AkiTXmcPpARzb6OvIXjxhSRlebyEFHH3RX8zvZY+79WYbyOA9b+APm8fecwFFbNn0VXVtFWU9NmaXQWqT83R75E4ymjvZWFSn40DCghn5cCLxHECuYAtrvCBhVfkq2pUWZQoPX/j8hEtfwOI2El+GLmMKdqQesG9E4aH5V5Xu+IC+ZeTC7Tyt0Luxdb6DsbE3D/10o6aX69+q9lCQLnQK+T+zhUwKe29Yjple8TWa0hhxhelUUysYCEqoQYzXJHrI4Mn5QwfHRi3INDI/prDjMr9+5yTty0kyFkOPRKlYL5EIs3CH+FwVlvhcCCFRJA0PhmuPdHHnJS5ctx03YIJQq7zC8tjW00X/1xNi4ZDj0aM4u5f79kGm9ZKqIgYIOja57BPFu3oJySqu6lXuzE3DdhvOiQwM09GCKloiMmTqBFPL9v5Ymu+iv3/fehVr/K7ar9wf8oyncKaJF6dslimSBVRF46nn3OeQFLTmNU1oN9gEhs4LM+nSWcHxkqqxxo6ANB2w4YCnFpGY8L741nsY1keLIeYsxYElUCm3JD8peZv9CwYfk/ur/8fd+O/cNyn0lNgeAJ4XvDhOB/+A07vI13jUMrY8S8QNfx5FvuwdRdFDubVSAjZTpEsBQ8wp41aGPUJqZfr/zAEqxrRROR7gpmHOKLCqiOT/Qs2H8Wd/8+ydyosuM14rveMhwEUSdrwCzv96zLIJUHkjGQ6Q92uje0F16SA1+hH0jfoUJ8E9i/10Iqp9AFor/bbqKAkhlSV1YHUsFCGcOzmnxUk3J73ewdMU0giQOZdZq8+ImF4VmKioz9md4ak6owmMSa5xxlUvrs+VAEDawVxoc/WBw0m4hYAtEhr406TPDsGByZLdWtEUI4BG+5AF7kgbJYYKldkOOFPNd/txgvXWtjZd99SOIJyUj+yYXXImj58FoqRuyBJEUbLqXmuW8JPvUXMwabSQkqnn97y0DitchR2iUY5UvniQxTxiv3l0dyekqhHN0D+f2ggYW67e+toMN481iy2Pn9o8RjH1uMaRNczuvBZlYD4k9U/KPUs2gkT9cGV43QdmyJcJys8mCrIR0e5Ivp4hyjZlcT5a1GEVhU5YPAqspqXSKb1JB1R7MlOCq3Eknop+fDZ0YlVLd2UtGz7y3nTBtLblCSl7DDuIRIV+7Oz/9vNmVgiHg4l2RGyXdXYVbMFiiQxSBwNlQ2oHRyvxBS3fwkh9qcJBSfB+qPZuMebdsCeI1O3ySwNrsKYUVPKcRbJ8R8wjm0dpRAa/qoFxejGDYGa/g1p4BaSboUj8e/EY2+jTRW5qDF+lCPHZXlIGjOzuOR9zidF0Dk1AkGX/Atvi4EZoNH93v4zoKzJ5PTVxcYl5QAoBEG49KrRoHqamzUS3dcAjWHz/Ldnyr8KfFbmncYzH/2uMGf+1DwR0yE0tom8kvEY5vuxbfDPcIm5OEge82/ig4rgaunS8FGU3uIJ9MKjxV3hpgGwpgc2oN4oTNXna1+AoZRZOCVvcCSAhBDOKI6yWkd8WvopM+6c2fIcbpNLTLpEIPbcWXBiwMsA=="
+}

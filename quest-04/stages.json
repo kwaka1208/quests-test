@@ -1,0 +1,16 @@
+{
+  "title": "Quest 4: The Clear Help",
+  "stages": [
+    {
+      "question": "report.py の空の help を書いてください。それから `python check.py --stage 1` を実行します。チェッカーが表示した単語は？",
+      "answer_sha256": "261b152862d1d614014496a635018719d34bb3965c5bd7a9f7bbebc7cd8b8696"
+    },
+    {
+      "question": "既定値を表示し、description を書いてください。それから `python check.py --stage 2` を実行します。チェッカーが表示した単語は？",
+      "answer_sha256": "4726a1bce9706083939a56b88b657a4c6fe83d9ae0543889df2938517ed1e4f5"
+    }
+  ],
+  "submit_url": "https://github.com/kwaka1208/quests-test/issues/new/choose",
+  "quests_name": "ルーキークエストテスト",
+  "explanation": "HfIONpiMRuIyCCpBH9mks6Sz+wH/BbG0BrY16BLEJzbxAZ1bufYQu0PCBjD9kHnwaZOcjkHVasc7H1S65yx9tBPZu/99l12ybB5+AnW69u21F7IKEYGxPm1kWDpgRfTfzmAMUU8g/zCKGGAsjryV0euvUKwDSgCcg0fzBTCWozfBaWl28yoBKBZfp4MkMwCeJXqS6kMJiIj+b1Qzxb78VTXbh2yBXmFAJY1mohl05RcDd+yfZt9gF2L+4m5ams3nfq2SHwjfADPTlabYRSDbdBWMTpIJmzbhcd0d00yeCYG9UMovTxDKYyMdvf5lE+s6qiGO0hr7XCxoHujs4PZqBXYUB5HbNrCQkK0S1W3bgeyfRRHfCfpKRbH4NrZixOhrgcXZaYRGYCc9qNvL/eNDlnALLjI4KmsArW2dvDw0j19JT+1DRSzBKJOovCznwCS3beYTD3m0uY46vakkQ6HPXmKF1MscLki1sgdEgYbHpbm3QD5JimA0i6NazZ14j8+NEQ8iXlkWBV2tFmpRfCJdOhLXMwUGZlGDATnyO8szlhkgVBS8M6uvs5cPFkR8XKXI5XEH2vPjdI/P4zsLof8DrIwgjb1RKu9jCTaiy5+XjSPfoej9auOxv7t6x1FgSszeSeLRSPOSsN6IQQjUaE81WrM/fxk1r7QBzgkSw+AXgQ+n419an/9VGq+TdjfEhpk17clBERhy+2qLSvdWOTwuUQEL2/MWpPApo9cjrgB1H/X7Fudn/ThPjtPCoGh1Oo90Wu2T4LvGSzfjsuGMskY6x+J/YcaoWVZeWpgrDEVbNiyqActASTIgWse4VGDg2tmD8dT3rysaQV3d2O0aqB7Cu5HWXn9MaHQgJHehb7BngGmT1m8uxN8uB5s/nYWzcv9gIA+VWULARltzBKMsQ8nzdnOWPqUo9BH8/QZGNKww9xl7Z73zB5vZo826lInJJaPZ7RuYBoDp7ebkHiqrstQ6QtciCLBdYEsufFyR4XKWRYiVY6laCeOkPAIs7dznfkg1ZfZMLFM03C+01UXLONjgY3vjux34HNfCK6c3Kq6AH6gnVcp3vpCDHoa0rKmLpZojBubcV2oNyVNePAAIIuocM7il9YqIauvFYNiee6lomAS8WpTuXi6hDPjtC1CH1xijSATDGnFBEj21o9oRNxTcffXtU26OHrgnqxkn1a3CwAvLkshhrCkZwN71rjd2aU5JiWu3VxHW7Od8C757ASuaUl6N+x+jWoB4QTXbN3MAv7RddX6plZGZpGuyFUsSIpMBLM/l58sGSDjIdkoQEWyGfA1eD69IR0OuxACxPP12GArIGIopLXo79S82ogGndpSea9SFAWdm1gIfp0Y0QFIIr+gWVyiU5jdmr25Gfj01s3pGELGmj2Dkx72l6xYHU+wfGKTORKoyG4e2n5AXYc1yrmgirnk8oVeHFu9+2mrdvQxbmHI7Wnlcw5uE8jtRK5nLx047mY2PMlc="
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Quest 6: The Docs Writer",
+  "stages": [
+    {
+      "question": "delivery_time.md に、要約・引数・戻り値を書いてください。それから `python check.py --stage 1` を実行します。チェッカーが表示した単語は？",
+      "answer_sha256": "25b1ed9615a0b6b815b41ac501794a61d86176d5927190e1718cbe9b54e14506"
+    },
+    {
+      "question": "動く例を書いてください。それから `python check.py --stage 2` を実行します。チェッカーが表示した単語は？",
+      "answer_sha256": "af2bdbe1aa9b6ec1e2ade1d694f41fc71a831d0268e9891562113d8a62add1bf"
+    }
+  ],
+  "submit_url": "https://github.com/kwaka1208/quests-test/issues/new/choose",
+  "quests_name": "ルーキークエストテスト",
+  "explanation": "7KDCOniD2n3IeSn85S7OgrnPwp1MFtdEcD4Jq4c+YV4V1I/TRKiPvllOgqM01ipVlcsdkZIPqQrh4o/wpYMosSiyqWJxReFR758Ddq8ekhfjaXlA4zcW2gtYU+vAfDuN5N8HXGY2Lxbx1z+PLVIqiY6gR9EyJ1/iaFC8EoTPn7uES6Cc3RpSKbCyoWcf74IE8+AsVQG3/uP7rmSd/H9ES2sBHKslHx9WBFz/L+5dzt6I6ypbzc/KVgrezBHqpaieiWzmlmIuL7igq9r1LyMHdK5aNxx7LJmF+8RNcH85Wcj9Uqu0rBVvpSlQ50WredOnzifV2/lR/F1F4dJJP7imR9GxGMdfiVD3O6z+W7nfUDWvT9RwT9eLAtsrTYzhIDqab2ngsHordXUhpB4hlJ8aIi0pxVR8MyXPsC3+3MO9cqghp2d8zgJg4aU68MCb5/UYWPb5LFkTodONGX4FW5iOkut1mpafY0zuFP+pteMB7FQ8+KuLOv6fFHNsj2IqajFBuVnh98CODE8js8IOuBZwoj0t3GYGrKC3khhOYCDiZDBWeQelQAGud1i3fX9p0V48duh7RSay0gC4DcBtd7hjMfqn1JXGzGm/yiQLEPRpegOJ1ikmqsCri5pJANQSj58cwV83obfWVoj5l1ul9kZfvEtVdMUASnUtQWBGNr5RQHyEujBgUSH2kVE9tu21dQAFdLz5vM6V94KXKzvNLyQm/S75HezXzIRlvYhIRvwNCx3agjuc5KPbYdxJB5ucVbT8ReO2c48+XynS2/h6kUlNUSZ7nXcnjBQnbU7qOVzocDfS6ytjrz/dsGNtjoAKZmQ/+6uoN86BlTa8oym6Ri0vYurb3pIK2Pfdpoc+Nw8mMWymM1MZmuvbuHrN+ZvEWUNnC+LIsYqPUWvPgGmfx4odHC26vnOrmajydYhdW+5YhVu6mkEhN8pIzw08VygWTAB7qXdkvmYUWUZ7U8lLnnmq68gHzDj9UGHccMzvujvpwKP1zMVcfVIoYdaF0TZExAul4ZKylwFT1tp5jfeGvZTg/xTLotop9p4p2Miek7iwSAq768TWA0Jss0hGPXeH0ntgTBo1hYoChU7176ykPWJxKw35JNMCt9Boi32xjfM3ctE5SbSopYhGfJ2srCR6giyqIqG3TL8CRtwFfCJVAYNmWJBKukL2zsiFzYCA1zVFzNRkYR/c6EYc674eT2F50iqRlnKhVNEunSgjzcIbAVVB3e0gf2qrMiJrrQ2htA29UZb20ldqEUfiDRUKgvLI"
+}

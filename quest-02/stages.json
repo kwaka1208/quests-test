@@ -1,0 +1,16 @@
+{
+  "title": "Quest 2: The Kind Error",
+  "stages": [
+    {
+      "question": "messages.json の乱暴なメッセージ3つを、落ち着いた丁寧な文に書き直してください。それから `python check.py --stage 1` を実行します。チェッカーが表示した単語は？",
+      "answer_sha256": "2b4b2eadf7b2aece598d2f2ad4637361614a738a7cdf1a457d8b46db072184d5"
+    },
+    {
+      "question": "同じ3つのメッセージを、役に立つ文にしてください。それから `python check.py --stage 2` を実行します。チェッカーが表示した単語は？",
+      "answer_sha256": "d1068beeb96a6a79937661d5cc9f290dddaa5730e64b7ab2b238078a1194c614"
+    }
+  ],
+  "submit_url": "https://github.com/kwaka1208/quests-test/issues/new/choose",
+  "quests_name": "ルーキークエストテスト",
+  "explanation": "USP9RudoqvWNCvDHzlsFNPSQ3YJZbUJOQNKmYy+TIN93BWeIg3mFIQDP0TuaHvl+QkzHwrW3xBh+qsWcpiYqQ7hqAqSlB2Svne+t2UqTdC0eLBOahnXbelapb7I0ztQteGzBFgEbHFLRSOExelKHvVcUQ2AkyR/C3tGdnDjQm3lGBwHcPoHIh7hLv0Ra8itygBf4q2PF52Xa746YhONd9BVb4HomnWZa/t3AhBk1gztkPZj1W4rUfXlqW5TprXVcwXUpsHyGT06VJ6amkASVRmI3rqTLsQtRumY/oAtUEa7686ProqzdFjGWCq80mxHeSZ11mjwePRXajCnRi38Ewbq4Co9Ze1bDL4opq8z0jvv0QL0uI31MT/pR7jQGYOKJPpQ1XjU9IrwZSCuGTFF1D9iItk2kIAB/vQ+UuZEYUNBIlWU4p2lScrKCVt6SADQIA5Adbo/TrZjH5O/A3xYkcStxuioVArdYKo+mGJ/6U/nGvmUV239jsIO9G/KX7vUGpj1CMC6RGjG/XXPvH2DbE4RZ5h7XjNL3oFP2pDJ95hGiMP1KkZSDNdvEz+xsYMmLgVg1JqL6zhvFrrNpQGVWDppo9ZiS1jGXpGixfoQ8w6eHtdFbDRF6ICMUjadXPozrmPa6jRzRu+OdQM66UYmXflODH+sJVisS0n7w9+8dFJCVVFeRHwmmaeAv3OJ5PjwPJyaEp/J8p9F0hH+1GhjRLyk0+E2heO/P+Pz2yOibCxjAcfo+4kigWijW+5Ol7AQvWIbzsjXgrJbEcFOzKpWGgXIj7IKRcDvwJiL4RIITt95V1mVPNoEZoZ7ZNFdFSa+PWv9lm21Fg74sttX1UAiaMk3Padcl595raw73zO6GfrN6gO32uW23IRvSgCpBeD0DXPSsH8JcIcHuZXmPPYY519Xyx6omdxdlVxtNrtU/C7Ij8NOnfgqK9M+NGrlOiB7QchuyUBtM1QZlA6L1DnoD/ivMt4xAFO+zThSgmsXeBJapUU7gCV3NVKhxsQ7TuxGTTsa5DrjuI25e6rCPrgUejJVdmpjmp4h3WdTdIy9XaZFLr6bb+NyPWkV9nV3Zz2xIgcI6xMeJE66GENo8Xav9IXTK6YH/dw14AygTJ7fOFDWJCO7NJWDHRl5QZUcFpYCLAbN9GGlrF7y7Z1r437J36u3kV7133TcMv6C5jGi0QwAdB2zmjDOchUVU96WGIbqk4pRZebcUqDeW2J7qFcdStJuqRJKuiRwF6BvHYF5CbJS04OLorr1cJPSPVuCUXCU+DEf7nX4aBifyS9kyrNPz1Mcg8FzBZ89Hijlyqcbwok+DFuH1uWIyrhkH8AeVGgFoh0wlqCoHBapGJfgEFbgtz6cQsqSulrIrIxvr7K7pYmpT++O883tMSBKgEj27hrQ6MLx3GOvquG0P/y8Mlp/WbcoTkLRObz5O07UG"
+}

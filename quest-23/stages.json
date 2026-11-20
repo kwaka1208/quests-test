@@ -1,0 +1,20 @@
+{
+  "title": "Quest 23: The Spec Room",
+  "stages": [
+    {
+      "question": "3つの案（`plan_*.py`）を実行し、その出力を `SPEC.md` と比べてください。1つの案が MUST NOT の決まりを破っています。それを書いたのは誰で、その決まりの番号は？（yui 3 のように答えてください）",
+      "answer_sha256": "2896189ceb5cd563dcf22d0c293615c2464d84297295bc84c2c1da7003eaddc3"
+    },
+    {
+      "question": "`sample.nox` の注文のうち1つが、MUST の決まりを破っています。その注文の ID は？（N0042 のように答えてください）",
+      "answer_sha256": "ceedd854de4a71bb27fa1d331ebc26b0558d9500cbd49fb3eba1e47e4cc7e2c2"
+    },
+    {
+      "question": "注文を3つ以上入れた、あなた自身の `my-orders.nox` を書き、`python validate.py my-orders.nox` を実行してください。合言葉（code word）は？",
+      "answer_sha256": "4cc7a4b341d8ce3315ea112ebb01e664bd328e88781db0f4bbc0e3f65e201bf9"
+    }
+  ],
+  "submit_url": "https://github.com/kwaka1208/quests-test/issues/new/choose",
+  "quests_name": "ルーキークエストテスト",
+  "explanation": "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"
+}

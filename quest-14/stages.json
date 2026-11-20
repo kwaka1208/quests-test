@@ -1,0 +1,20 @@
+{
+  "title": "Quest 14: The Proposal",
+  "stages": [
+    {
+      "question": "`pr.md` に、プルリクエストのタイトルを書いてください。それから `python check.py --stage 1` を実行します。チェッカーが表示した単語は？",
+      "answer_sha256": "8c7ed2d9be59e21cf7cfc7da75c6c0cb7dd751f4a870f0f9236f0f35cbaf584e"
+    },
+    {
+      "question": "`pr.md` に、プルリクエストの説明文を書いてください。それから `python check.py --stage 2` を実行します。チェッカーが表示した単語は？",
+      "answer_sha256": "b1ece0f3fb4f7be072543180ff03e21b7b094b69fb6a7f4d48cb170282cd967a"
+    },
+    {
+      "question": "現場に、チームのページのプルリクエストを出してください。それから `python check.py --stage 3` を実行します。チェッカーが表示した単語は？",
+      "answer_sha256": "583999dcd2af5df33a28288c945b12d55791c104a15c49578bc1388225289085"
+    }
+  ],
+  "submit_url": "https://github.com/kwaka1208/quests-test/issues/new/choose",
+  "quests_name": "ルーキークエストテスト",
+  "explanation": "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"
+}

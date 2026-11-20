@@ -1,0 +1,6 @@
+{
+  "font": "large",
+  "beep": true,
+  "refresh": 30,
+  "screen": "main"
+}

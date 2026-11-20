@@ -1,0 +1,51 @@
+diff --git a/orders.py b/orders.py
+index 3f2a1c0..8b7d4e2 100644
+--- a/orders.py
++++ b/orders.py
+@@ -1,9 +1,20 @@
+ """Orders of Northwind Lunch."""
+-from settings import PICKUP_TIME
++from settings import PICKUP_TIME, MAX_PREORDERS
+ 
+ ORDERS = []
++PREORDERS = []
+ 
+ 
+ def place_order(item):
+     ORDERS.append(item)
+     return f"Your {item} is ready at {PICKUP_TIME}."
++
++
++def place_preorder(item, day):
++    if len(PREORDERS) >= MAX_PREORDERS:
++        raise ValueError("too many pre-orders")
++    PREORDERS.append((item, day))
++    return f"Your {item} will be ready on {day} at {PICKUP_TIME}."
+diff --git a/settings.py b/settings.py
+index 9c0e5b1..d41a7f3 100644
+--- a/settings.py
++++ b/settings.py
+@@ -1,4 +1,5 @@
+ """Settings of Northwind Lunch."""
+ 
+-PICKUP_TIME = "12:00"
++PICKUP_TIME = "12:30"
+ MAX_ITEMS = 5
++MAX_PREORDERS = 30
+diff --git a/README.md b/README.md
+index 51c2e8a..a0b9f13 100644
+--- a/README.md
++++ b/README.md
+@@ -8,6 +8,12 @@ Order your lunch from your desk.
+ 
+ ## Pickup
+ 
+ Your lunch is ready at 12:00 at the kitchen counter.
+ 
++## Pre-orders
++
++You can order lunch the day before.
++Use `place_preorder("salad", "tomorrow")`.
++Pre-orders are ready at the same time as normal orders.
++
+ ## License

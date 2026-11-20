@@ -1,0 +1,16 @@
+{
+  "title": "Quest 20: The Release Notes",
+  "stages": [
+    {
+      "question": "`commits.txt` をもとに、`CHANGELOG.md` の 2.0.0 の部分を書いてください。それから `python check.py --stage 1` を実行します。チェッカーが表示した単語は？",
+      "answer_sha256": "7f7f85b1e7d5ffd45265405b7236de391a4cfc20e325cc317a3263038069f892"
+    },
+    {
+      "question": "互換性のない変更（breaking change）、非推奨（deprecation）、貢献者（contributors）を書いてください。それから `python check.py --stage 2 YOUR-ID` を実行します。チェッカーが表示した単語は？",
+      "answer_sha256": "be379a30f1aa05d130468f4818fc077ccd2a8b9c972cf5dc901eed1be8587ab8"
+    }
+  ],
+  "submit_url": "https://github.com/kwaka1208/quests-test/issues/new/choose",
+  "quests_name": "ルーキークエストテスト",
+  "explanation": "og1VbOvDdJiYk7tJn2vz3iTvQEt8yXTiiN0XArrXlQ7mU+UyiHqJ1J+HPUBwt0O5q4OfvB6U4s8+plEco6bG7Ckkt7NTT2LkGs9CUyjXAo/T7wJsV5yqw889Nm99mzHK+9CRiVO6GKQodwaZ47jDquv6xW5ArbuemcKeNrY+VuqqOpSyFGmYOtfRtny5QOqehluKa8tgLGzb3un/N9TpFKCY4XA/56umGGV5swmzPJF3vK5oQcRlZUg953aqDhIA+FdAh4Ok7sewut/JHE7mGLFAdANn4xEi40ZCQBcbeluYeccQL1gHLZ9xMSNfUWj3OTeMO+GEMIpg+/F7hVasTPOY1nglkw52HERFDyBdYnMKKfWvj+9bphY6uj6Gu24+Kprm3xwxkDDF1pQW87mSfKlC4v3k4tsGl7uZORcbcX0VAx7fhiHyMY2BuKzeMfCuK2zsiX6F0DJD2Py6XBxmrBBZHQ9VjQRn7nHi53m0nDgnMN6+4WgxW2cN5OLMA8Q94YnSIE18VvmydgA7owrxtdJcZHBJXZZyaV9HYIWHQYhwOzwNFLlVifr1gczqLu7EU39k7dLBArv2sImBXanL3BfAyV81TF4ROCjK7yX1JRBiiMhuBzSsID0Gn8R1fEaQkqv6qFJPzbxtdOeOpmMUfcP+9IWmgivEv2lh36u5ttGv4iw2QbugNYHvrscUUQgVDiKq0SNdlLdY4vXLTWJzXRpgO5kQ0f4gSKHMoq6dxgp3sR2/1vFlFw4O/n6n5h6EpUx+kpLG3bJlMR58+n+QUQK4CRbrkpSYWW3j6SkQ14jGUPRQ7hYLukPKq3lYPpWm5BNtOwC6V+RcUGPTf/F37IWkxKRV31MTEsijeRabdi786cADqOhqiHgpc7ipneTKoCER3hbGajO+M2VHyNYqwJYZwE/OT4joKkH3FUZJXPg2ZjO9Hsnu/ubfLcdtU3tnmmLRaDA1f6t1o3ARLyfTY9T+hLP9FQPnEk5Z1m5LllHlpPrfxOYBOfBZdmElX1p4wo9nELVZRX2C0GLGXWW9XezgSPqn28PpFLvEs5AKgDxTk8JK7j9fd3YvpYERlVtt1ddSAyON5PDSUKom130B7trXRVqlfbDyYcqch2c1xmXF7nfqEu/WG6fcnjRnJLr8O8v+JzmlgTMB9yb5l5jWlhuWlNvz006mD9ewGQSAWNCJ+ZjW2gFM9rRcaD2Ea1ZFXmwrp4xqMmKHa+j164WSo11pzIWSTb034ZjsXhef7NDodOEJghbGHL8LnAXeLkXeI27xfl4depJEwIL4xb/7AwFFmvgv1NRD4ZuHzR4Ndt/f4YNzjUL9VJegQHfbDcM53ejQesdSQiULgUhwqbsrLbt4aFqrZMkC+b/YhkZ/W3EkVbZo9RdpzsHoF0ksrx9psxKMCCZ+drGbEy3J/PSGyNT5vVsmSdiT1iCL4kaRmQsp8087aUWLkUVAOitLz1PI/5NiX0xkwU4a5tYVRx0uB8Aie5KxKq0xvW203L1e/vW6TWg+3Snavfz0RHWDLykDwJ3ndyDyysqoRFjWaB1r8hbkhDq5w0T223/7TXClpRQ8k5B3v+tTzK9Uuv363R4aVzLSgi0KAm912zNpuMcj62CK4HsHVIWByRa5fWrl0v5wSTZSIi72ISKPRjxBmSfyhjWZOt6B15U0RARM6n+Tmyy2XAQVcYLlBxg9EYvY/KBjGMu3OBqv4BZHcRVVt1IV1rhAzkvXoT2GIINaVnCwMQqlVdAopqvjixFbNtc9mYhipZ4upOYfkb6H7taRLZqqzmmhvKip6yOmiBMnuzo8FHADukGlPAeuWTKAK32A7EcwcW4O+WS1g4QUlC64pvVPztGbirkFsr5aFZEPl5owWxa254vH9aQhtP2nHVoIm1abdWD/ejgCYzMP6bvt6OAubPvZFIdREEWX6YXgqRg12FL7jeJu93sopBz61DtCRp6RFcAF83NJ2Feo+oLGLJMdTcpGD1lHkYLHlrE="
+}

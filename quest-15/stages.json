@@ -1,0 +1,20 @@
+{
+  "title": "Quest 15: Sprint Review I",
+  "stages": [
+    {
+      "question": "`beta.py` でベータ版のサーバーを起動してください。help とエラーを読んで、壊れているところを直します。合言葉（code word）は？",
+      "answer_sha256": "7957bdf8ea97bea330a7e03361617f09d58f59a9db836ecac295571e45a6314e"
+    },
+    {
+      "question": "`menu_sync.py` が動かなくなりました。ドキュメントかフォーラムを参考に直して、実行してください。今日のメニューで、0セントの品物はどれですか？",
+      "answer_sha256": "d087ee8196afa2ff461aed248e9b90d5cca64e9fa0dfdbec351849610ae12c47"
+    },
+    {
+      "question": "`issues/` の中の、open になっているバグを読んで、`prices.py` を直してください。それから `python total.py` を実行します。合言葉（code word）は？",
+      "answer_sha256": "68566dc699f6bb9ea6330371b5dd1c402ae6f717dd30ef15a88d1a7a6afaf8c7"
+    }
+  ],
+  "submit_url": "https://github.com/kwaka1208/quests-test/issues/new/choose",
+  "quests_name": "ルーキークエストテスト",
+  "explanation": "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"
+}

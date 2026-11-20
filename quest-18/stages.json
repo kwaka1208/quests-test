@@ -1,0 +1,20 @@
+{
+  "title": "Quest 18: The Reviewer",
+  "stages": [
+    {
+      "question": "Daiki のプルリクエストへのレビューを `review.md` に書いてください。それから `python check.py --stage 1` を実行します。チェッカーが表示した単語は？",
+      "answer_sha256": "ae8e0e940a94d02552e2572eee9a394d5dbe70d35e9f4a41eef5d75553a6e731"
+    },
+    {
+      "question": "本物のバグを見つけ、レビューを正しいものにしてください。それから `python check.py --stage 2` を実行します。チェッカーが表示した単語は？",
+      "answer_sha256": "be46a22b1f8cddcc356223467d9bd99f7879c5e9d8bcec5a6735d0180007cb97"
+    },
+    {
+      "question": "現場で、班の人のプルリクエストをレビューしてください。それから `python check.py --stage 3 NUMBER` を実行します。チェッカーが表示した単語は？",
+      "answer_sha256": "d9d771df57e86d113220244726d7c795611a3583075927d292a4b159b24a5e4d"
+    }
+  ],
+  "submit_url": "https://github.com/kwaka1208/quests-test/issues/new/choose",
+  "quests_name": "ルーキークエストテスト",
+  "explanation": "Aa5e33Q/Q++syVpHbTaqq5RCLmLtpNQmDxG4ECJMUqEe6NHVdhL8FT0rqs+N8oXgCs+grZVAvYer+/LapSIiV5BYUM6lmj6itmoPBIghz8msTAYO1/AkTkxwzZZ7x+OSdDtSdC6UFitQ9LhZXifrmC14ohpAesvFmeeweChHhcxG1gr90zJUPpEQa3YG+BTcwbpkgL/izrm1Zd5n0snXrIpX4vpTOPnzztFyc8xO2AUj5deQUrlhkZ+3FC7Swd2VoK/ZnsOiU5k1kRvh+eMLSQ5X2CwczLkO/Ozwylbzg8cPcMc6EXkKQg/+f3ROusbccVImAkrMHaHVbgXn3qf3WoECC3fO8sQ3FIPwR4vyEzIHhAgytmiEedx9OsHZhssSBI2QjHJNyM6ISGC3SKuQcmF9A9d3eGPSqZC7tbKIidIXDwFhqsxJov4qwUWampdF+MkJRI9fGShtMU1ITbfmhwtKcfxbPRFFxBeSz7rgMOy3fNI9DSQO4uMzi2fm+Y8TokYpXpTqETPy+GTOZifDDajWvXLvS2L6k6IrvnPy3HjtIf4OCo9kqdT9Wk2DFIxZ/DSfg3Y4FL32ekapIWLzTuYyg0zEbquGIpXbzBeK7JeNjbhRz4evmtEaG6BIKjg05LwnzckAdb/BZ78sUuhwh4Fnc5aGhBFxB1SHPhBdEktXbr/yzPB9/8h1HNoX3EE/UT9BnlKXU9+zcKVx/V8zWrQHbHf6BP/Iuld5WrOM9dLIzvHk7OZIcJAdjEYHI7dUIUNiy8SPKq3N8HhofIs6ik1C/pxkmMxCqxWTtcl+H4m5mx+vAv3M+Lk7aSlXPb1UqhNZRhFQNZsD+ib+ibDWrCT3nIW5ZcZ5D7S8oTw6zGFh+xljfOpCNz2zZ6wT6PbLWAAxObxABqPL3lLKJszt/qTmMx0XXZCXySj0BOSYZC6rGSZUxfsBjHf6dqK0AMPZteC3qbKU6PjVgrXep3+IaKnbukX2fDf4nwynd8Z5CyLz8tgQkWTZGClXtvCU5dEVYN+cUFTKmPEq8wM9QDeEVEJ7ogc/NSA4mnz/lQixrEpZNLFCplymy+/0e6/09KCo+fbWMWHDuLA1H90yvxek2LrAtYhx5k2KpEGUdC+DIPtXzIpy5ZzspRjhjk4CuK03v2IdRSOD6TrJwrvoa7J9DesQ1v3wkBj2LFqChmEr/LClpnE1mKInkUWfCKivTHjFeF3iJlcqpaqigx8kPnUndcwnV2r51fvd+JNoVYmzLRyliwWBjN0RSPhJNh6mwslnaxFU3Wz3SLbhalxXaJCgqEfi9bP5BK+5l1kZ+di+1A8JEn3bJfokBxauFbP3AqrAT9g9VLPls9MWLYCOjGl+AoZlUeFJzZIQNdEgakUMKsnUqprIzO0VfBvbUixoueQLKj37qDka6gJEbeiWufhuj0oJOqYrQ8cg5lgGQrC4zMebo++MBUaU+O/1WShRmph9J4ehm8+OGs8n+PlX0OEpI8Ug7xtrcnQiY9kuPsuj071l9AL/7UyOzd/KyEAiGwzXEloxW/QM6Bh25WIjIrpU1cJPvpiXHchdldASrRk0UdhPx5vNZZ7hmTFJuHCoi3CgYbHEuySqqN2VDq9QQ6rDvvOTAsnatQTFX1i2GGvJPAwoka3yDGkDjKYZm0nvLqCHXxb1hi7wfyisTsA/60SB5kQzO0ie28296KyyOFA853fjGckstbv8uKDzEqTEkYub3qVA3rXSDRoLAnCy+FC/TqMjfGU/KhG8SS4enJ6VxFRhUdPMGGVssEap6gXpvW4jGZMn2dYOVMDr8ng4DMurQ9tfi7J5kpPM5M2eSBSMzRHXX95D/bL4gPyUiFjFBB50nDa9KvoM+NzDUa1bpsCTa0BqZzGEJi0os62b0Vav3f2oabcR0EgeC+7mKtgET3KevI4vZ6+6Cl+XZHRjKJ1zuO6pZPiksGmovU0S1bEKBENbwyNSlGJLI7ZbloiFvWF3GaeaYFLzqQDpaPvR9ooiX6GpyCPwaqPwkrAkfXgLYPFYYaE="
+}

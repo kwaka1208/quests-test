@@ -1,0 +1,16 @@
+{
+  "title": "Quest 22: The Devlog",
+  "stages": [
+    {
+      "question": "`devlog.md` に devlog を書いてください。タイトル、TL;DR、見出し、100〜300語です。それから `python check.py --stage 1` を実行します。チェッカーが表示した単語は？",
+      "answer_sha256": "667b9327cc0b3ab64f0bea63ff617f1a7e3d085854965f76f502a02ebc62f075"
+    },
+    {
+      "question": "判断の理由を説明し、プルリクエストにリンクしてください。それから `python check.py --stage 2` を実行します。チェッカーが表示した単語は？",
+      "answer_sha256": "a7de314ef89959bd46dc3847ead0dc6ba69aa965b0847d0cfaebf4612e332f5a"
+    }
+  ],
+  "submit_url": "https://github.com/kwaka1208/quests-test/issues/new/choose",
+  "quests_name": "ルーキークエストテスト",
+  "explanation": "jlmifMJdJ4gaEmhF+I1mOuaJ3ozYtLMMF1IH7kk/t+JYv+YrPjC5IZVu6yiOfkfClhQt2mHfK6k0UcupHADD49Tk21+fXD8PAd11ZuGI7TbVkA5jkCig2bzzP0jZk7s9oSa+v1psYd1g34jmY+pMnaxwBUQNuqJmi6vQGctkPIyB67XDzyMg0fthVn0lBKbF2lCH/EdfUXMC1AkNyDxZoEXKOqbNg3PpD43R0QY5sIcWfgIICor/QxaBNUnoCTmfS/nUroIwckLLDaTQEQ7INcXoVOj1ke7BO3FrM7c4aMg98MfcFEiow9UL29Q7nX64geuZPvxl0pI5PZ5/xbS3hcefE06xtIL6RaTi63nbtYr418BDmCe898F9GTQH/rVUEgx/VboZjPueTCw7JvinPz/igE6i1HPbHPKOICOB0I06aEW9OGz/Ayq/pwEe8g4pDJrmWjsMXymYJS/8v21N/sTxKoLBdMPftn8Alus2G1U0HUtVWmsXvQ02jKZzupD4KeHp2gUuiwcyh9YmEUc7I21UCxCrGUb2DvlZqmfd+aPfApZAUANAV0ZzCUdsYfBKjvSqx7ctAJD87xM26k8tVfKI2ILNBq5IBeob/VyKUpWgQsK8UwhbbjYjWaSffdYbE8fUEsw4a+CCVBxt96GwcSdC6hZwnpGrsCUYsn2LUTIQ8SoctOU8qxyR5IBigRzB1WKxLZdvXwyGCE4r0rXR+7xOeNHqf5kCKs2gXhSFPvusj8H3Lf+I4sKqgAkJyNr1Mo0cpf+uQsZrBapQAns/VV1JYmbWg+sXl7Hkmu8N7ZFKr2SBkVDRLJWPsRRUMnpEjHOtr64Z5eHtNgVyOvl4eMbCgao3Ohkz9Wt0ntuwYbPCFSh8qUke9kjqTzXevRPT6QFKD9lKBXAeI1XxSqh4AjlsqOHddubGPdU+pYabKuMvtyJgpHfHwo0Jaix/0o1zaNhFpTE0RPqznq/IUrt/5gflxiEBc8YEX8yNc0j5XFv4zi35cg9gvyHCISZd+GP2Rrsh54nt7EuWt+LOFhQcfyXBa9KPv+K7wVgzcIm5GRRi0k9FxzP80tlwa/Rpnr3r3XymjU0twc6ZRtxCNbtQ3w0iTSoJp4JV3cTGM7H0DFsmDvb1xzBd4a10BeWNQcwvt5OU13Nbm74gEVUyFfo5I0VYUIFAUBOUcDKQk9uIrCzXLa45Q7RVIgaixsOYCDwLIf+S9rhw0cST9MX7jXjRONnMF8G2Sxlwx+j5tpRXHix1UtgKboq1wi2SkP1oVxctYaPBwwDRyBEwRhc4GUkMra8erHT57McgbXePs5wVNBaB2JMjPbHVfMVFbTFtqGaVbrV0Aspq6disCij8/PR5oIGYjTeDhjwsuetWHJqDyxml9EreCAWYAtqmUu+ZV44cNrBQlZSpLdVTyFUxXjZuVCSH3lKAubuUvkGDrm4YlWA41fLrmWIJ/naxTOA3EPqkIk0DZUv3rlJaWl+DFeP3qY857r0Rr5UFWGtk3kx4JrUNYITq/PuCUm8N7AqWsYHbNFOdShU2v3jZS1KxfFTHx2VdVZe4TLt5JNBhibXWBxa455wYhhrcRl+WnEeLMiqSXABxYU8+QbuEJwRJVqifRm9Enh5pStv1y797lx/dRRR2RZo+mTNSaRbh0bi12damnucMfZpoiGKxv1iDFYxxZqUmQZyCAsrrzrua2u3MHkiiY6rf6uOYXU6Olu2DOIqMnOfW8tnSm+ju+Cv+4oqlouPreZXwkhyPLqvz0tUuN3g8Fy2nH21H8RKcbCtvYJfNhixL"
+}

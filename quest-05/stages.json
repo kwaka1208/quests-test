@@ -1,0 +1,20 @@
+{
+  "title": "Quest 5: The Docs Room",
+  "stages": [
+    {
+      "question": "Python 3.12 のドキュメント（https://docs.python.org/3.12/）で、`math` モジュールの中から、数の整数の平方根（integer square root）を返す関数を探してください。その関数が追加されたのは、Python のどのバージョンですか？（数字だけで答えてください。例: 3.1）",
+      "answer_sha256": "0fa04adf7214e7f48f259079f7fae9332d5c37a43070769f3d052f1a98e2952f"
+    },
+    {
+      "question": "`python find_person.py` を実行してください。このスクリプトは phonebook の古いバージョン向けに書かれています。正しいドキュメントを読んで直し、もう一度実行してください。Yui のメモ（note）には何と書いてありますか？",
+      "answer_sha256": "7cadc15d609c4ae9b4be6265b8e1cace16e6fa78a81ab0c7db82e687a7c867a5"
+    },
+    {
+      "question": "Misaki は `old.book` に載っています。`find_person.py` を変えて、その電話帳から Misaki を探してください。Misaki のメモ（note）には何と書いてありますか？",
+      "answer_sha256": "a457e8f04aa796dc50770f109d184aaa9b389b8429eda73d49bd7dfdb199aa9c"
+    }
+  ],
+  "submit_url": "https://github.com/kwaka1208/quests-test/issues/new/choose",
+  "quests_name": "ルーキークエストテスト",
+  "explanation": "0jfhltv7XVGdKYdPP3eHFeAItThIiPrH0k/GlN28VlnfYaIeuBSEuO1r0V5iKz8EL6vOIplkALIlQ81fp30m1hQ5x47VI6phm7QS3uAMaEPns2T7TtYFfTV2r9j6HwlWVRRtfHoPJZ6DrfSIp0EhZ6cGEzrc0MHVGWVLbprwKCdYBwInpn84w+HuZLUMtmjaFmUC8KCi9fVm0ZWDn07FC0bKCMvIlsEt0+8aYnCxWQMrQFn1dhEHdbqfy34BfdiTnP++v0dCRA4deUrgEH1k4ac97SROM+8yCXmYfaNVHvf5/XBDzAANsFwmsqq7aFMz3GLW2gTabImx+OJNKd/FoEF6EFBIa8Dr4hmhfweBEYX1VoyJ+VbUpPcqHXuFloFo5/YSARvfdkYtODBlJqbtLrfm+S5lIUFsvlpVKcOC7R9JKW/1iOu0z7vzu/Wx5HHKI7mNEOgs16NXeqat9gdTf6L3RDjIUMdnr7Bf/gdbxaYC7z6umi2/tkmFDVt28fdfaSyg6unfR9RDyirry1T/ulFli5Sx3tcXi4RXIQDMZdtBnUxN306ZPIgay0gHZ97WKj2/w3U60OId7PtopjSKfFg2jDKjJhKf6WWsOF7F++N4JyhdGYjQpZMSD9Z8fDMK0islVk1FmU3cH2QaGks86e3uwIj+fnw3LJw+e8ApNICN+N6wh+pomDbNiDjF1EU5ojmpPIwAnn4yjK3dD0teffTXnigC9WTWMRlabmRcmNP6b82eaOOTKsu/pqdJNl02i3/fy6n/VwAsAPUDzn1ko+H5rVNk+cElrnmIx5ap3tpsoyUFFRL2bgqN4SIu6KlrOIVbMZ182NkrpEIG0vfYd4UEc9MSZBVpll5vwf4wr3AdD3jLhd8JI/kCERg5Y7Y4nhKRwmL/IU+gJym81cjgjPiFEH4lqr6bDEJWaMj6YRJbrh+aEHHe+t63/cGU58bCJGKAHfQfh7VRSx/BAFmsIDPsHPSp4ht3HnM4hmeualBehtkpj5P+OtQYJ2QK6dgp4KwKiJWhxWpyDAr6YY1LFKPion+6PSoZWRKRcPj38cq7AVFrw8BZSkb8h7sAz+0TN9nTmfGMuV8Nuab02L4abnAk6VKYKCGMTxt9oeq9Lx85wdLb7nhM9wGA5jupOLWNmclfcV0qEGAHco9to9jkaTeESW277Rl8oSXC2LPXmoeOngKiZsGFGAM6VKNiczGFxTXxrJRDXh/g9gzlxoqhpxKy9q7ti0D1eAtl5H1jqMHxw/5DMqazDuXzhpxlUAo9bFUu6vNupMMAl04JFwMMIOK4KU9uvD+XOYvo7Sca1RgZjHhCBZx3EiX6O3ednb6A51oMGpNJIKVsBBU1hCsCvD5jO8bHULLMpzKjNKDtxQOgy4rO3MZBlbGJZlwQq7d3LQ49on8fClZGUuNtaoEL4MPY3Rh7sqHMqhYsFwJ2r4EfmLVwi8NVQyvcmjgvw8eCt88zMDMVLdAeBIpiusIEfTNvjiLJmka1uHukzUSB4673zjmCUYX2zOriM92j0NlgAYbnWWol4JNX0NblExsgcNl0aITfF5w8/uzCXAA9xyTQCHPxzGDAlNw6kJbJiu8XoECvn546o7WAdbUQxe1FeFa0CeyYFJNc/9ZehxJPtnjWWNXawnJQ85lf/NmrZ/nsBhZkqtz+sbrxiJ7MdPxJPqtP7nL95D8ulYAd7IaIFAISyvihvBDm+w0J4mT3b1uWf/wF7M7pDEJFvTbP9gDKKyVR6rom8fdRhQvtFH1aYGhCpq/Gqo1mpXePDyjHfHz15ejyNN1S2/5gmxnDDTB802kmhlG+XTSyRvUTQky/i+ZtLkRjesY5uzPdpe+bLHA9MGhsz6knovXjxgpP7vVcSC/+NjcpexFhmQfV6MGcqfBqcE21nKoXvA+sD/A="
+}

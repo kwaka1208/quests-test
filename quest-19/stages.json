@@ -1,0 +1,20 @@
+{
+  "title": "Quest 19: The Release Desk",
+  "stages": [
+    {
+      "question": "`python display.py --fullscreen` を実行すると、エラーで止まります。`CHANGELOG.md` を読んで、正しいやり方でディスプレイを起動してください。画面（screen）の合言葉は？",
+      "answer_sha256": "d041924c15885af6d06530a425c6dbffc80520150c4dd264f40b4364b12421a8"
+    },
+    {
+      "question": "あなたの `display.json` はバージョン 2.1 向けに書かれています。`CHANGELOG.md` を読んで直し、もう一度ディスプレイを起動してください。設定（settings）の合言葉は？",
+      "answer_sha256": "17f29b073143d8cd97b5bbe492bdeffec1c5fee55cc1fe2112c8b9335f8b6121"
+    },
+    {
+      "question": "ディスプレイが、まだ DeprecationWarning を表示します。`MIGRATION.md` を読んで `display.json` を直し、もう一度起動してください。警告なし（no warnings）の合言葉は？",
+      "answer_sha256": "3ed44f748267c943f30094dfc155047ac9970b8342f4646c7794461abadfb257"
+    }
+  ],
+  "submit_url": "https://github.com/kwaka1208/quests-test/issues/new/choose",
+  "quests_name": "ルーキークエストテスト",
+  "explanation": "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"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Quest 9: The Help Forum",
+  "stages": [
+    {
+      "question": "`forum/q-1042.md` を参考にして、`mapping.py` の `is_mapping()` を動くようにしてください。それから `python mapping.py` を実行します。表示される単語は？",
+      "answer_sha256": "8a62e967fcd6dfa5d75308c37808b4668a7faf1cdb06e09ac0a7161827603887"
+    },
+    {
+      "question": "`python export.py` を実行すると、エラーで止まります。エラーでフォーラムを検索し、`export.py` を直して、もう一度実行してください。表示される単語は？",
+      "answer_sha256": "647d177cca8601046a3cb39e12f55bec5790bfcbc42199dd5fcf063200fac1d0"
+    },
+    {
+      "question": "`forum/q-1500.md` を参考にして、`tickets.py` の `clean()` を動くようにしてください。それから `python tickets.py` を実行します。表示される単語は？",
+      "answer_sha256": "bb4c8eb92b6ec7b9055c94a397581544693c61da0f8f6cbb808681ccd0d9ce9b"
+    }
+  ],
+  "submit_url": "https://github.com/kwaka1208/quests-test/issues/new/choose",
+  "quests_name": "ルーキークエストテスト",
+  "explanation": "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"
+}

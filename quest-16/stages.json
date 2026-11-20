@@ -1,0 +1,16 @@
+{
+  "title": "Quest 16: Sprint Review II",
+  "stages": [
+    {
+      "question": "`server.py` のエラーメッセージと help を直してください。それから `python check.py --stage 1` を実行します。チェッカーが表示した単語は？",
+      "answer_sha256": "8b77065060d98eaa36578738549b73099e7f4346e9f950b14879c22497171415"
+    },
+    {
+      "question": "今夜のバグについて、バグ報告とコミットメッセージを書いてください。それから `python check.py --stage 2` を実行します。チェッカーが表示した単語は？",
+      "answer_sha256": "a4895eb44afc336fecbba6e520cd67e178dace0276655d102fceffa8e5f70570"
+    }
+  ],
+  "submit_url": "https://github.com/kwaka1208/quests-test/issues/new/choose",
+  "quests_name": "ルーキークエストテスト",
+  "explanation": "7Mc227MUCbMkAp0vdApcDQXaJgsAIEbru9mFVocMuev1MTYYtWdMT6ZoApAoD1DWlaEywaJ6wJDz09EnNNw8B9eZrL3EZ6IDB/SbjOVCKMNUN+3LZdpG3A7EhgNgnLigGQGIolzj8xOSNr37xUPjl6OdbGKa1k112wxYMeDtEB5K/aMhoh+6ZwPUBZGqSlYcgi+U/kV++kXLVayi5VRvViMLENb9ikic9h1CRMpt+CCawfCffkYqC1BXNCo0ie7ctX1G3KH1qatjWldxDLkw3FECrtVHCLLoOLs8PG5ipiDbFIGruvrvcnf2Tj+qOm2R7ox9kqQLtuVrDcswe6Q9jao6tN3rUGCp2gcdasLuwTeoDXOJicMe1obsgXsAHqp9NRxTfMEaSdurWOkblO3ifkKwt9G8CGxftoqg/coWX0zQqX3EJfr/pkCkAZUebCgp30Xta+qMCEdyk4ghL7pSk40bL/YrvQM4x/IdeK585CJBR8jfHT4A6eVus6o85HBq21vDuJ/TdlwkeVktiqbFSIr32dtgqsILEH6ErKWA/4esKoljyGWnXR9kKm8o4abEo6DVP+5yONcONMcamRRw2vaUyXxNcxkwVqNkYFCsCdbfxBCtffHc1FdDkhdFWQX/qvtALnZwyLX89G1O9BmjW09+VdVIwdDSx1tOuFXtYvttIc3La7ncwrF9xpFwNnploNJ6i/dW/7Ntw4KiMxng5g/CljFUbzX/HfpLSnk57c7Kk4Fd+cqb5wIN7VmdHaTwN9Ftv8xA0AlxjoRImiTECr0eLQLQp7En79NJMSxaetLllrwrEQcaykF53OfEtC/K7o+AojWQtURlV3w0/vMOSF3JoL24cfm8jlVlJDEOSoD9eRtXfmCcWuUZ2MXKFqG+cOjplhzyHs49pZ9dPQml0WcHdjAyiC5X5utFdjf/5FSv4LU+59G8c+g+MYcrxoU/1piaIuCb6YMcYiuMJeSzVOU5D0gDMAk0HZ9QXI1bfq6mAXAkFr26zjDg2KD/OKf7EGvckPpP/9MufjYUfJ/6pkbO+Wk655bDzUEIfIl3DcAAovJydMP/mpm8orMHtuYk2S+BzYr9Vl8BxWS1Aihrtci8OVtazEtLyYy4l/BZkkKHZB8GYxK09FSeUWab+tBf6+JEu3n6FEPpThrLKFA44hwjMti+gFl7CE0jQpt3S5GoBW7ZN2Ysx7a9/ZhTrHJbefg8ptiP9wSlDYCL8aLdADGbo8wTO4pADSKAm7ahDMubwDV5ZQy2UVnqZEg3bbH9zsvrsvJhxhCtuNcDNYPtcGXiqxzZKbnKZeR+gOUZcNj5SUSznWdDGfSKEdftkYOwL48bSeRMsLmelPHiw0CMd/fVhm/gwYMSd+hVhTW+u0mBnOKAhj7lzkJJHeWxZWA6iFDnQc0275YzhzG7T52Yrijofk9ZKNqlloP8J4A+yX+zX/nBJ1jZFjlBg3+d3KeJN4qDETU5d6Eh/94wk+qoBqlu7cgVV317EZPWkbODBhcxJzsvzh8aX07C+IlB7CjeiMzFD7CLdndOWZtgw+Aft5m17LcSelg4yHbT1nRR27Yw1JGJdXG4LIPDouW6vn70rKfU9UEtaD1t"
+}

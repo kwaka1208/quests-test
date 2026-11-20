@@ -1,0 +1,20 @@
+{
+  "title": "Quest 3: The Strict Server",
+  "stages": [
+    {
+      "question": "`python nwctl.py` を実行すると、ツールがエラーを表示します。help を読んでください。ログのレベルを選ばなかったとき、ツールが使うレベルは？",
+      "answer_sha256": "008f0747f4e27c8462baa991a538025bcc2dd143e78422f1afbdfcd9e757a20f"
+    },
+    {
+      "question": "アプリを `staging` にデプロイ（deploy）してください。デプロイには毎回承認が必要で、そのやり方は `deploy` コマンドの help に書いてあります。ツールが表示する単語は？",
+      "answer_sha256": "abfc412ce6e530df63b0dc9bf4e02bb3cb1719ab967c8f4ea3951ab5bae4ff3f"
+    },
+    {
+      "question": "`python history.py --setup` を実行してください。履歴の中から、Daiki が書いたバックアップ（backup）についてのコミットを探します。そのメッセージにある合言葉は？",
+      "answer_sha256": "47320987f9a49d5b00119b960f247a956773f57543982b8bfcb6da5bb3afd9ef"
+    }
+  ],
+  "submit_url": "https://github.com/kwaka1208/quests-test/issues/new/choose",
+  "quests_name": "ルーキークエストテスト",
+  "explanation": "p06wx+GQwKxyp17drJ7uRpoQzQ4D5X/vVc2zsyVan9qajhZPrkj3amCQ11XN2BctRm4lqBllkAS2A+jioAfjbC3Z4tk5UXzZgHBOTZpjSBHTz9+boFyZb3ODwgF6RIItL0TtppVhdwxyUe7sd1Aph5GFwwKD6wtXGitoYQKq5iQCdj+5bV4QxjyT+1QQiyS4VmgCjCwY+HiGPQ/Zq8lM/gzVRMWHukl/7ZJu2Bj7SMnK6GzrVVmQ4Uv1j8Veem/jw4+7+RKOTNdt+v7gptyFy1RPOUvJhp2lmdlUTKdOD9MS8NxzmLHPRjcsqIiDo/jLm1P8Xe9j6svmUYWygyZZhz5DCe3JCSZ+21bq2TLaFDMaCgOu52Qa70QLhhN2kf0f9VrJGKJi5VA/XiEk8ie2jnuozN4pp8HNhM0mwrY4QJ1g1EYNR+It8dMwqpLZ/t2sOk07hqsnREp1TX99LS9Jt5D51H7zYUjsKSRZITRepaGgZNJFUAiTS1MiLbuD+mTr4kXcgAI2ewx20Hx9nRQxBK6eMfR8hT5vT8T6qAFkTuUmpq4cdm7GCfZ+Bg4tWG6YKeAO92dT74S6NZIS/lvWFxAVAWeHPpdEHsbc6ez4Tkqks1iwmnr6/zE00xJmxTIRnCic2f+UJEb1bnJlpSnNIyyQXgilD58jBBn6+4H/WdRuR/Z+HoOuQteIHNI8l9uckBhmGfe1beqa3m4GQGNme2oRujaon9s4Lk11znP0b09hNCLdtFScMCWAd/+IMMtjW05xwOxTRXY9npETzAlKmihG4wXGIHDI0zPgNquJPXtCpgH1olIq35YfKclPAEkOkIge11TzIcNfg/ng56uvb0EXBCBU7P8i6wdkj5cYQma/QGmQBRQOLgIVGVrBLFmjiwBxE5E+294lg5v6m7uOO5D4RA0emWE3af8pEKHL3h7aC6hCtF/ssyYYpYdWbG1dGHSTNcTXaCnMdUVORJ2Rf9KfMpcG0Yqzuu+I/XHAOc6SGlif9RFwklhHOcZXS8RkVigK6jLd8u8cuBXMEbjH00D4BGfPfbo8EcUmkvCFRDO3zQiUEGlVcBfnwfmjlxRBYo3A6BL4AziIV/gT2rhosMKbrXCPLQ4H79ottIJJkHdSKjckzFKedQk4yvsMIKJPFF/DidJ48I2nHZMe9IXaI9arYQ5APQPnTdML6pItWLXhzbjzcrB7Pk81Mqtvi7emqcxDKtXkfQ1lHfmc+ooiCuIst8FOIYEnoOlOMYRrCK6HMYDYvURunH/IieYBdXNf9thmFnPE33G9mH7A9YNxbb61bYUpj2HydTftUSho2gvXXDoCWVtloASCWS/30KEfZ2aTd817EAvsjzINxNiSbNIM2tqeF3M7AsDitou/TE4z4ohAZGDPZKJqov39/NwEHrFmBpHVr+DSMw/YmdV4+rcwQRDskbyNcnPyaIE9+nxTb7KuySWY1kqlVIcG7MXZmy3tJoi4f2iIn1cqgjKazx8bw0jjcw0jVY+ltIbOjCEe4qsZDl3yIKfKfeJPO5JAFaCkTyT5sG1JfLoD1y7K309qeCm2lVt2H8DnX+AZgP4WQ26k5ndnVVESrIFZwXJbqVrKoKA2yRHRPrwk4Eh89nu523+jcd4vcFT+UgGyUgnSLR2I/hTR7047gIemXjWwTbzidI9Wv2MaKJqHONn7AE15KASZh1xI+DGqTnWWtAgVZwg="
+}

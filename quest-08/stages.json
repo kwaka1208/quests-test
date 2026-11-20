@@ -1,0 +1,16 @@
+{
+  "title": "Quest 8: The Bug Report",
+  "stages": [
+    {
+      "question": "`issue.md` の4つの部分を埋めてください。それから `python check.py --stage 1` を実行します。チェッカーが表示した単語は？",
+      "answer_sha256": "1aca80e8b55c802f7b43740da2990e1b5735bbb323d93eb5ebda8395b04025e2"
+    },
+    {
+      "question": "バグ報告を、再現しやすいものにしてください。それから `python check.py --stage 2` を実行します。チェッカーが表示した単語は？",
+      "answer_sha256": "681d1638f10411fb29eb810a9184e68742579702b7f53496db912a21c3f9441a"
+    }
+  ],
+  "submit_url": "https://github.com/kwaka1208/quests-test/issues/new/choose",
+  "quests_name": "ルーキークエストテスト",
+  "explanation": "+U67j1W8HLPPHZadBHfiLwKEewBS77G8e2+Uw7huBLjH+YbSoGak+PxzVElCsJ3he5P3YwWt1eChzWtmuyOxHiU3NH9d9N2QtaxWGPm7Ajohs+8HTyOAezKP7draIg/9KXDIthPRbUpt+8glg84B+QWFM/atczGLNyoNacCs94vrtIEsPNILTdpzbK1KwLgsdVi/wAdVAvc/UKqx9OoKTjsotF3WQST49YYDlzORB8s6LcSgx5js6dL6+XARbuTXw4HCyIQn/8h5WCwllgjZeNKLc6rmvg7ytKR0CmPnSp6iMSo18wTWkwx2TI6tXoNkAA+BUbW5vQwMEbnGY7B8ZCo0XJR0hQtZaIgwKWjjNG70ZWd1Fe1rD4E5D3PCUrsgqSWwMGIsXGRJWj6JLxww8o+o4XXYjpQAFO0UMxJt4ce78Te84mII07d5es3F3BZsR/lL/yFpcBCfRQuRK8cjpq2lclcS2wFaT6ns2tifOLcoxO+XpMKzyJMUfP5GS8fQq2jaa7hI0QCu60cIJcUKCYKiej+grriTLjIvWVnU39TIq21e4va9niexKJDYM/CwVoiAQnWwcU1oUc4qsEt1jVilc/OMHELyEfufarXMnSE0yfce5CkaJF1waDmux7PjW1lIG6g7SnutlUufw3nTkJ6T6gEv48rI4+vobGpDLfSSSFGgvmyG/zf+V4miFgR7Xh4yPZskEaibFDLKxlTyfAhsnSH6yt4twS4rZS92ZEwIUBqkm/y8rHN+u5T7na6v15Ign4Y3X55/zl2qCDJ9pl64df8KpASyoMPThtTeARLnci0JK5yiWS8JWj7ogAuWeoxruf0D1rMHQ8KRLepRjOYUFy4yX57IHzVIEUj9GkAkCmEpEfXKt0w63wJraYAYxdIajE2zotPDoWSQegg9YUcG1R3MRlm609SeWlH9FTJditdyx0jObZtebIyieXiXePiECbgQ8o2KdbUpS8LgyTHnY/32wU2nxtFXXeGkWMMuiATQawhG/jg+0rDrTIq+Bci2UzwUF5ULzCygrS0jLrqTYiGPl85m2Gh91nvtbHk8YL3KyDyi+418qy8cU36BDbS1cxLGbtowEkiUMkNLdXw67azjMBh+4lrCu0XdXQxxnx6AYZOz/WcFENoFbX75TfP1Y1ge5moq3ZLunvk4QLyOlDQPZmHlx8CQR7cluxvBdsg7Jf5FuPHr5OcsbNyco0lqME/VIMbc8N65OJLRpbfKyUWz4sQDhAFM6KTrHQx2zp8PX9k3Jp599EQPC/x/5rYhT6rIiaLy3ADuy8XM3uMXNWs83i37Lcmrs2siDJ3Aq9CyfKtHVk4DasYGnBLryH8Uj3BanJeUUjszVfAncbK7TvwRGGsyA0op9KTt+FcD4WEM8rIBGMReCHVB2toFp23pvIKmqMrFyLRLBJgAGt+Hr2FsCPQVZ0F+izhzjQ=="
+}

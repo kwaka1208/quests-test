@@ -1,0 +1,13 @@
+# The commits of Northwind Lunch from v1.5.0 to v2.0.0 (newest first).
+# "YOU" is you. In your CHANGELOG, write your own GitHub ID instead.
+
+d0e1f2a fix: make refund points negative (@YOU)
+c9d0e1f feat!: remove the quiet setting, use output instead (@haruto-cto)
+b8c9d0e test: add tests for refund points (@kaito-m)
+a7b8c9d refactor: move the tax to a constant (@daiki-ops)
+f6a7b8c fix: allow taking the last items from the stock (@daiki-ops)
+e5f6a7b docs: explain pre-orders in the README (@haruka-m)
+d4e5f6a feat: add points_per_dollar and deprecate points_rate (@haruka-m)
+c3d4e5f feat!: rename the setting pickup to pickup_time (@daiki-ops)
+b2c3d4e fix: round half up when giving points (@YOU)
+a1b2c3d feat: add pre-orders (@haruto-cto)

@@ -1,0 +1,20 @@
+{
+  "title": "Quest 7: The Support Desk",
+  "stages": [
+    {
+      "question": "`issue-214.md` を読んでください。修正はどのバージョンでリリースされますか？（1.2.3 のような形で答えてください）",
+      "answer_sha256": "40c9eabbd9780986bdc82c3b454f21b5de44bd230be6294c8dc5f80d11f4ddc1"
+    },
+    {
+      "question": "スレッドにある workaround を使って、`python notes.py save` を実行してください。表示される合言葉は？",
+      "answer_sha256": "382635c9325bf3273d195ff1b8a44e5b11afd7d97addeb8863ea35feb98c1a07"
+    },
+    {
+      "question": "`issues/` フォルダの5つの Issue を見てください。open で、`bug` のラベルがついていて、duplicate ではないものが1つあります。その Steps to reproduce のとおりに操作してください。エラーに入っているコードは？",
+      "answer_sha256": "c98e85f249002f03068e2a61e1a1df5c0db035d6cdf41d00ff6056ed63060947"
+    }
+  ],
+  "submit_url": "https://github.com/kwaka1208/quests-test/issues/new/choose",
+  "quests_name": "ルーキークエストテスト",
+  "explanation": "WvwPztvXQBwKT/TIDgt//zvADuMjV6J1TmYJnegWdrD58fWAUQCDBSEZCBwHEc05IZNHpLbj4Ih0RaZo2D2xzBixNlpaqufJDTpb4ICDJ5oDQzG8T6Ed11vzi2T2zz899KfpGA625xemBLCpT7VGKkunrwVaguIzbGfFMpwe/kfgsONELpMZPbhUn6zbELdeCoMm7w4lV/6R3u7w+XGRj3HxnBDDnsCw76PV2zk1gvee4UV27SxiXx/dgytnbdFDz/af9V5li4mThT+kJZuGRIX6P6+0C9pyYXXOfh2Iv1nzkKmwZgFHULMxUe6VioucoOw5M/nKg8NX0tG2ZCU569LqLTY/Rv0UqW2Qsks7Hj1u4JQxCq6cNXT7YbdHcWo3ZVt1VMQNWyOIZJRAw/+dGVBB3bpu34mCd6FuOSXYKj7ELaw7YLvJWb/gtwPHLPayzpN1qWI7ihZUS8K1Tglsetk631Xqtnxb/H2kJORG35cp/PJ+N9RGurJ5i5PDVbtRiKdLaECTuzUcYkTIFfjeIAlUJHl5n8Y0lYlEJwnS0wRpkrbXMcCADcJVSQ4qJHqTrAJlA20UetL3fEXFJiOwmrh4wvfkiAESiCFytwKoFLIbDK47EVUIDDYnlz4UQCmt6+v1efelLKXIl93JB23jkpoFtieRwiVUwzS7wwznHU4U+S8VMxIHT/e5ZBAAb8MQo3rluXRLy7Eq3SFRqYMUMg0KXOopmYUKF1Tjf7OeVPl4GAU0tcg6jeBGJU6mSyA7LZSPG3efZ1mo96jEtNSd2MuJCsgal7uL0tox8RP6Cho0b6lxylrqbaQgZdZP/gx2gCN1dUtW0B9XfvAUYfc8D72Be2qsBmxCuCEf+IoTeUZb5PjMHnTaxHnpNfpGrAK+hj6OyLw7VT3uOAo254QSJbI9HOlTnXMCBHEHI0uSNBZzyPB3c3L3yksucfDry0nO5mWVtfMeMR2n8a7IXWJIwY9r4Vlql/E3KItX6VonKBmRXP50h5+qI1ZXIEJa8nEfSmdgD6RyLqnB6DuQpJN9MPMAbixi14ii5lZDjx4Y4GuBmBU3dQt0RDT9pBE8624Fi2Utu9ssFjIEeZTM8t17ZCcoLwGmF/lYHvwVOpvjkueRkoGWrBEtUKZBw3knNOEBn7C74gvEzy06zkTOfaqarzXvEzmnYQrUy5WidWW+qLgVvC+5/Zhag5/06DpnVhAOvWoxnBgag5U9sX4H+YK0I1AoNl9sbpEfRq298aAUMYg/0tn61W5dBQXNBEd73loGE6kbWOiv8KVndZAZM0kc9i2/ZiM9gO0qycC3RmYEweKk4B6X6XvMdaKc8NxUfBUKMryidkRT4LRGbRGvA3Pvv3UuiinegTz38QBbHVkdkCaZyFhAU3OWt06fPUmGSM8G0xeIwh8kwrRoaY6YJWVk7WuOtOXSqIc+KZPEDIMJ3D5dDebWHFX0ToWZ5lAjKsSMMzryim7tHUkntbJcAAfd+Fs/bR6MFdQ66KlyXDfkf9DWLhgsqmTQHHVIkWUE/J6Xj0uwWiI/q/PPDbU7zgNvYrrh279pUYYNFZdgOxtvRd6rosARUf9yIWC6hmVfnz7CMY5pZhSLy52SDsibE1hQN58NfefUTyl6xMZL9u1uhgZBON11Hc4+CZ4zK1AuNSr655BJxI7TEge/ypoXPel6gDWzMqZHUlj4Ggc0pdvBbImPT1rIBeIN0uEOZzj1WLgXU7AO2pmc6bv2Ac43XF3VmXn9phPaBu9VP4Z1Cu4qx4NMzxEAG5OUtTvb3iNl5Y/wwtK7w5yo"
+}

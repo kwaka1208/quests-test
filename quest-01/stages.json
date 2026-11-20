@@ -1,0 +1,20 @@
+{
+  "title": "Quest 1: The Broken Build",
+  "stages": [
+    {
+      "question": "`python build.py` を実行すると、ビルドがエラーで止まります。見つからないキーは何ですか？（引用符 ' はつけずに答えてください）",
+      "answer_sha256": "5ca4f3850ccc331aaf8a257d6086e526a3b42a63e18cb11d020847985b31d188"
+    },
+    {
+      "question": "`settings.json` を直して、もう一度ビルドしてください。別の JSON ファイルが壊れています。エラーは行番号を示しますが、本当のまちがいは別の行にあります。直してください。本当のまちがいがあったのは何行目ですか？（数字だけで答えてください）",
+      "answer_sha256": "2c624232cdd221771294dfbb310aca000a0df6ac8b66b696d90ef06fdefb64a3"
+    },
+    {
+      "question": "リリースのチェックリストにも問題があります。`python checklist.py --setup` を実行し、git でチェックリストを直してください。それから `python checklist.py` を実行します。合言葉は？",
+      "answer_sha256": "9d9a67a66df1a0220ff159e55c68492b5d41f7c821c58337f939f292dacf2c78"
+    }
+  ],
+  "submit_url": "https://github.com/kwaka1208/quests-test/issues/new/choose",
+  "quests_name": "ルーキークエストテスト",
+  "explanation": "0KFpxWXbxEnTtd/01J0s+w+Qm35ar1qMuRTD1mupzyVZsTTytzGtO3yTnYVDyubbufCt1K5ObwaAOgnTa5QEMUrJMDQb7H5EaWDjXp0P34ItGHSnvJ0QoyRS0+CaU9d0avuwSsxoedMzh7I/2MQdScikMMK48XU5xNxOMe+TefJauF7PIdSix9/JfbmBaSFuIUZoWC7VCOZSA2TPyARSjuA/X9fWuCZT6e8AmIFTHEmlHxfyTD49AJIN1DBxy2SqHTvM760kgszesz/zyBnAp0jucFFI0n+jXdagUQlgokWH+ilDXPE96TrRzYRKL9GqZKaQXFZqunlEsHg5pchWWhtZjD9FQbbRVpWKaI7zb+Bzx1xBzzEZtI66r6p3OzTxOO3PL0nt3xlQazYRBd3ROuPM+uBNtTM8MVT/9gREJgQHQTat0qMDcVVbbIVB6pNAq9mZhZ1U9P+j3Ctbz0lxuGJZLRumcR1EsU9vRqRL1z9CpTZSuQ0rk4bCUBhQlKSR/1HTQhDbxzAfZuihEUGr5udw5nJzx3l7HkhVL/tL/ESOZdJSIMNq6p3IGJgNjdgqToeGwenc6wIAgfVNzE4QJ7s/j3dlMbcAfaBx9tZKwG/klk2mqZfqM0rSafWA1zokHiq4zH57xUKlPjbbMgema5/PJZjLNCC9wwL+icVTJfr8BJ8R3EgwBzjWVsvs1Tb0CYoqVaobYtgGRZllmDstNAhpthjKlBE/Qz7IKPSKfwgQPrESOEXosXr5B2pU6/O8UAgm0dBUrHWJ2C/58R9Z1vEIzWt0e1zR1q5R2ZFEV7CipuYtMI5eo9Z2/yNqkz2Jb01MWhLJsDVzCU8ebkqSOq0ih/Xq6zpxk7Kt5Nh9t6BEc+vzmyzpt9tec4z6n6Ehm0RK8RpYHeRyFHvPFO2I22YcRBjuRIRUvPMrfEa8LV1dexNoE8nEpQjIUG3btjhL63Nv+qn3k9A+zdGrvuREhLjfN9wZmc4yPaN60CZi2dpRzRiLW6eVUItW0Kr2AbJs5ZEoNHLu2MXqpuwh0S24F1qSo2dIOWOVrncOPH1YaOgwBbSOTVRokq4w5UQYvR9ONWyu3XX4R/f6xKAu24FEnFiXNBJahBEnURbokuOPZxIxHpxvQyihZleji5QLrLYuxoBuY2OtBRrkmlI2cSrDP8S1VnpvmksQ5gN1R9qZOYX9xHnaeMsRT4YA8CuQhWYoGeu792rsZQcC3ZO3S54KmeYdp9gRX7Z+S3MB7TQzyx2EMLXgOKIehnKkfvjlwJbRxoCJdSEXJlKasukcWz9hAswrjt/BrLWYI9v+3J4WZlgaTibdbvYl+vFXknxPuLuJ5y52SAYs/Zia0fCNRmreUeKUz2zYBIfUEb3YMSrpO2f195JtmN4RsdkxLtb2UYVtelaUmUsTSu/sBVh+2NX8L4miLjTx9IykefuNQRvdxHS3bSfu3CdrqhgBo11Atcv0dRBrNvdvzirlsbliR5zw/UsjH1751bt8zmcgKXNyUI4XA4If64hr4slczFxoNCLMsLzrm+toxonxt4FnX1kfd6MxSEzX7FGtzBoYgjutyCePRtlDABKdTDl1OVj+YnujJqD2SjWQpKzSTQdA0WH+F0lBI9E3jqvXFDGuEuAf6Lv6y3xehmNVCQuosO6/hiAZIWhmn/kPr1plMFvTPgIxbqteWUDh/MJDq0OJQiao9HPgCaTz8wFiY5SxEPkfPymwapqc2ZkDWKVr/CVxfD8hHVm88Dov4glE0Kc2NkCJowuRvsi9ubqZSxb++KE/OQLvpRiC19OgvkIwa7d3F6jybdotTpHkZORItnT5zGry/5+ztur00+gqGrvAxSxXKaBvQJTFTPZ+ySbTlfSHZn4G1VpTdIFwy9bNnt1BuRHbW615GOgbYfVqim7BL3qqwGT1NRInNj8geD8N3QvhhScOoGwFEPk1a5+Ewu3wko6X0XVdmcQPQpO0eg=="
+}

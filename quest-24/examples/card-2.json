@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "card": "C0108",
+  "points": 1,
+  "history": [
+    {"date": "2026-12-01", "change": 4},
+    {"date": "2026-12-03", "change": -3, "note": "refund"}
+  ]
+}

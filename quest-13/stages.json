@@ -1,0 +1,20 @@
+{
+  "title": "Quest 13: The Review Board",
+  "stages": [
+    {
+      "question": "`pr-57.md` と `pr-57.diff` を読んでください。説明文には、ある1つのファイルを変更したと書いてありますが、そのファイルは diff にありません。そのファイルは？（説明文の Changes に書いてあるとおり、フォルダ名もつけて答えてください。例: src/app.py。先頭に ./ はつけません）",
+      "answer_sha256": "5fc4475f9e62b3147ad8259944c9869fa360e1de6642383d69d3c0df1d0b7cc4"
+    },
+    {
+      "question": "`pr-57.diff` を読んでください。このプルリクエストがマージされた後、キッチンが受けられる予約注文（pre-order）は最大でいくつですか？（数字だけで答えてください）",
+      "answer_sha256": "624b60c58c9d8bfb6ff1886c2fd605d2adeb6ea4da576068201b6c6958ce93f4"
+    },
+    {
+      "question": "`python history.py --setup` と `python check_preorder.py` を実行してください。チェックが失敗します。失敗の原因になったコミットを見つけてください。そのメッセージにある合言葉は？",
+      "answer_sha256": "548a42517fa28525d6af7249de69bd6fefb51d10c996bb8135e337a53cf3b4cf"
+    }
+  ],
+  "submit_url": "https://github.com/kwaka1208/quests-test/issues/new/choose",
+  "quests_name": "ルーキークエストテスト",
+  "explanation": "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"
+}

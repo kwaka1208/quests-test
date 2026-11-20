@@ -1,0 +1,20 @@
+{
+  "title": "Quest 21: The Postmortem Room",
+  "stages": [
+    {
+      "question": "`postmortem.md` を読んでください。サーバーが起動しなかったのは、ある1つの設定のせいでした。その設定の古い名前は？",
+      "answer_sha256": "1f64847ea58525bd846baf310370b01c25080aa244700aece9bd71a95ed22b1e"
+    },
+    {
+      "question": "ポストモーテムの対応項目（action item）のうち、1つだけ担当者（owner）がまだ決まっていません。その項目は、チームに何を送るものですか？（その項目の中の英単語1語で答えてください）",
+      "answer_sha256": "df905058dd67a409fef81480e81e4736572b0edb4d7fb987c695cd07e260ec81"
+    },
+    {
+      "question": "`devlog.md` を読んでください。それから、チームが決めたやり方で `receipt.py` を直し、`python receipt.py` を実行します。合言葉（code word）は？",
+      "answer_sha256": "fe14010b4fe83303852f0467c919ef9a7ca089b91e96e3aad7d426dd87079297"
+    }
+  ],
+  "submit_url": "https://github.com/kwaka1208/quests-test/issues/new/choose",
+  "quests_name": "ルーキークエストテスト",
+  "explanation": "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"
+}

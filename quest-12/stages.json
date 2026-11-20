@@ -1,0 +1,16 @@
+{
+  "title": "Quest 12: The Docstring Desk",
+  "stages": [
+    {
+      "question": "`menu.py` の3つの関数に、docstring の1行目を書いてください。それから `python check.py --stage 1` を実行します。チェッカーが表示した単語は？",
+      "answer_sha256": "761b7ad8ad439b2855fcbb611331c646ef0870b0631247bba3f3025cb6df5a53"
+    },
+    {
+      "question": "必要なところに Args・Returns・Raises を書き足してください。それから `python check.py --stage 2` を実行します。チェッカーが表示した単語は？",
+      "answer_sha256": "1a2fc26dc7ea5a2a4748b7cb2b1ef193d96ab2c99f93092f69e63075b28d1278"
+    }
+  ],
+  "submit_url": "https://github.com/kwaka1208/quests-test/issues/new/choose",
+  "quests_name": "ルーキークエストテスト",
+  "explanation": "GG5f0qEAqiRUspc0Go3MN8K3nMq2dod5KaJjVlV2Z2VzHciMrGWF1gmOB5ip2yuw1g9c5CU4Ajvu1pR3vVcgtXnqKushjq7W8RD80DYgW1CX2WDywHZ6enlBG/fMi+TkeLjh3r5XZlS1RUuRc5qwezZQSJoP8VArHYwjIIlRk9xqrf+By4KNTI8Q/vP187ovg9wrwXYeZVfeIAsRKSITtctW/mJ/7KyKV0meAW//S9BFmIFKDRQapd2Or6W3YnLzcoGCzFbhTolGNe40QiMOb+yWSiF+kC7Zf1oajYuOacj0VnHrH2Ds31K4Mvgb4zbGmHXckVlOts1atjkBWeqAXl6IX/44ZAS1yIlXqx607kgyYl/Q2TOriC0DhlQRoApDCaDtEiX8vafXrxwPUhvLAqiPjKzd0tCx1NI1n1CvrK6nw9r7BJHoAEHeutUEV355BKt9AD6CFT1JFcrNS3IjI/j+oI6tmWtik6jGU4jBCE8rsn3TSdlJHbGnJ6M35gpq2prbXQF7KToeI888qdFZesjwZkZfBh+IKFvJl+I9A5X8G9N26eOHYk2RUAYMFaTUPawpqHCI4ld2fcH0X6mA5v719BGuS5vMgozLvIjLslo8AbQ99iAw00tv5+mKMqB5fAvrRFqENMJse2X0d3SMVh7+ENr+VcLqVg3d09j3o6IXEIrPBJu9/HabKQ2hKi0qLePGSYAiXAiYbHaocOC7RiLT24HhFyHHCziqmfb5Rm/4QdYv4hClBWvBTn/g9WWtg4oRo45D/PBi6tqTJ4uus/yB3MuFRYXBnDdq8aVIllWoyyk4bu93n5Nkfb2Ww2douWFZdrDVWiXdt+DB/1TgsDo3vrU5HsTJ6DJZrBuNvPgkJJh6tGVY4u6OQ89ABD1gf9saAL11+NdnlstwPzdFCwXR3tSMCd4VoxfgisUrMJj04VJWhVwF2gS3vpZg1msOh5OL77v0i4FGXcHkx5qYMxiFLTuJfl2YNgpaG4SGzBn9+Cl7cuPn/X/O9rI+tlLY9fvFhoGRC+uw3k++Wnp7PNNd2+Rzas1Ov7IUFmRlEud1KO/0HbKiEhB34Zwf2Sr+ZG+tWSKU90RaLBMBOdSVYuMlvF1LluxBb0Rlt5Nc61ngPCsXAwBf88OJZg8k7CIqm/LQpegVHtySNZ4OzduBV95sqcNzGy9N2tIQhJiHnKRc89yFqek9UL/4yJcirAPHgi7yOUHIqCP85f2PwV/P2r5uKhRBkiFx4KRZFkYRRCyV2b6puhlAj6Egnh+aii+fq+EzgbRUidY0h8OOWSGPT8QWlhy0J73Q58mHfV4XiYgf9366q3mygvBm4/YvH8D2mFvUL4+gZasywlFgftU4IbSTcGKUSFbtgjUdps2EPtvZgjayy9DamRtOaszPJRioekw4zGlR+jcYsScJyHLF7x2BtZyPDgkkg7qFwyIeB055Kq3FlsDeEAL8qFI2plhQHV7JwA=="
+}

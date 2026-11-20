@@ -1,0 +1,13 @@
+diff --git a/prices.py b/prices.py
+--- a/prices.py
++++ b/prices.py
+@@ -1,5 +1,8 @@
+ """Prices of Northwind Lunch."""
+ 
++# Tax is 10% (0.1).
++TAX = 0.01
++
+ 
+ def total(prices):
+-    return round(sum(prices) * 1.1)
++    return round(sum(prices) * (1 + TAX))

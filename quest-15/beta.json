@@ -1,0 +1,9 @@
+{
+  "name": "beta",
+  "debug": false,
+  "features": [
+    "pre-orders",
+    "points"
+  ]
+  "owner": "Haruto"
+}
