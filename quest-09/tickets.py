@@ -1,16 +1,17 @@
 """Cleans ticket IDs for Daiki's report.
 
-Make clean() work. Read forum/q-1500.md for help.
-On the website: https://kwaka1208.github.io/northwind-developers/answers/q-1500.html
-Then run: python tickets.py
+Make clean() work. Then run: python tickets.py
+
+Note from Daiki: I asked about this on Northwind Answers before:
+https://kwaka1208.github.io/northwind-developers/answers/q-1500.html
+(the same page is in forum/q-1500.md)
 """
 
 # ---- Edit this part ----
 
 def clean(ticket_id):
     """Remove 'ticket-' from the start of the ID. Keep the rest as it is."""
-    raise NotImplementedError("Write this function. See forum/q-1500.md "
-                              "(https://kwaka1208.github.io/northwind-developers/answers/q-1500.html)")
+    raise NotImplementedError("Write this function.")
 
 
 # ---- Do not edit below this line ----

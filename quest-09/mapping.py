@@ -1,16 +1,18 @@
 """A helper for Kaito's test tool.
 
-Make is_mapping() work. Read forum/q-1042.md for help.
-On the website: https://kwaka1208.github.io/northwind-developers/answers/q-1042.html
-Then run: python mapping.py
+Make is_mapping() work. Then run: python mapping.py
+
+Note from Kaito: I asked about this on Northwind Answers once.
+This page helped me:
+https://kwaka1208.github.io/northwind-developers/answers/q-1042.html
+(the same page is in forum/q-1042.md)
 """
 
 # ---- Edit this part ----
 
 def is_mapping(value):
     """Return True if value works like a dictionary, and False if not."""
-    raise NotImplementedError("Write this function. See forum/q-1042.md "
-                              "(https://kwaka1208.github.io/northwind-developers/answers/q-1042.html)")
+    raise NotImplementedError("Write this function.")
 
 
 # ---- Do not edit below this line ----
