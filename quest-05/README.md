@@ -89,6 +89,10 @@ Daiki は何年も前に `find_person.py` を書きました。今はもう動�
 
 https://kwaka1208.github.io/northwind-developers/docs/phonebook/
 
+ライブラリのドキュメントの場所は、たいていライブラリ自身が教えてくれます。次を実行すると、最初のほうに `Documentation:` の URL が出ます（`q` で閉じます）。
+
+    python -c "import phonebook; help(phonebook)"
+
 ## 困ったとき
 
 **`ModuleNotFoundError: No module named 'phonebook'` と出る**

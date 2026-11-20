@@ -1,6 +1,9 @@
 """phonebook: read the phone books of Northwind.
 
-Do not edit this library. Read its documentation in the docs folder.
+Documentation: https://kwaka1208.github.io/northwind-developers/docs/phonebook/
+(the same pages are in the docs folder)
+
+Do not edit this library.
 """
 import base64
 import json
@@ -69,7 +72,10 @@ def _read_format2(text):
 
 
 def open_book(path, *, format=2):
-    """Open a book file, and return a Book. See docs/v2/api.md."""
+    """Open a book file, and return a Book.
+
+    See https://kwaka1208.github.io/northwind-developers/docs/phonebook/v2/api.html (docs/v2/api.md).
+    """
     readers = {1: _read_format1, 2: _read_format2}
     if format not in readers:
         raise BookError(f"format must be 1 or 2, not {format!r}")
