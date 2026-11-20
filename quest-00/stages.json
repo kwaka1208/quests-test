@@ -1,0 +1,24 @@
+{
+  "title": "Quest 0: The First Day",
+  "stages": [
+    {
+      "question": "このクエストに必要な Python の最低バージョンは？（答えの例: 3.8）",
+      "answer_sha256": "bbec651b5e268b14772e0d2dced069b27ba3794401a095d16502b2f5e11bcf32"
+    },
+    {
+      "question": "このクエストをメンテナンスしている人は？ 名前を1つ答えてください。",
+      "requires_file": {
+        "path": "visitor.badge",
+        "error": "BadgeError: the visitor badge is missing. See 'Troubleshooting' in README.md."
+      },
+      "answer_sha256": "9052a454686e5d70bdd7d9bac9483824179889f4362a459ba249fde01e2ddd3b"
+    },
+    {
+      "question": "オフィスの Wi-Fi の、今の合言葉は？",
+      "answer_sha256": "c1d64b2d4cb30f1be788cc4d246ddd9fc1fe85a3eb3a85a3de33829dfaf6ce7d"
+    }
+  ],
+  "submit_url": "https://github.com/kwaka1208/quests-test/issues/new/choose",
+  "quests_name": "ルーキークエストテスト",
+  "explanation": "02IRQNFuDwPQOyL+Ru6bndtf1THLdQHaYzu7WfC/gJOXfSfFf2seVrOkANHaT5QzpP5I4t6+YvFJWwwUtGl/8vZZEw0Da0x5+fK/DaliwinRvThSTtpNDjIUJ0WQznt5pJWuZIFPiM37avqsHhTgn0IGLOWylNSQ7M24XZ9vv99KgJd3Oy8oPqBNmBgG9GEzv9KROvqMlmOGkB+/Z46Ki58ExRN28Y2tY5jLCjKqo16C8ovoNigzMjuJdyJGaijwcl4jHLFlfcSMLA0PS0mVFmckM0UuPEHzjlQBX/VJhEeHN8bbM1WL/hX5rhqLMIJwjDXGNjpUcrw6JpHmjeLaiDFiMv7gxNVopW5tY2aIJPl/mgUi6/kMPKi2zd/AiCoqKacyNgJy2D4YQIJ4xsClSe309cHgkt6p2GV+U2dI8rYiMixNNQc6CXAYIV83SgjsjhfEOfxebaTTa+b9y8aypTb4P528kqpHht7bQ2CS5x4Axwb0yXc2k2c4WE0G7FAyBRqVsuUvc70S952CQCb1WI7hRNYtjll3Rfs5kOY4vspc6oXZBSX2Hnfhglj67SO0lvtqqjdqZJksp11Qdb8v43wuVBUnzUi+Dku49bxNm7y1Hv4HLltjsLx3ZweehLyEpPfpb1zN5GzL85CTrHUOqK3Xhvq2tR/8AUAyK9ZBx8t5GXqRzPXxshzS/9qQMcrJJU2GnREPis6R7iXGkls5YHgna+Vx6Th01VioS53FdSp3xuB7AMUl1X3tY0LS6eP1jVkCOb+lT1pHB+jd9kZnUrI7Mz88b3cZ+XY15i8guH4f6S6u+LvxZuCRDCGNbHmvfm9lOl3nJTWaxE7f6LkmNEQ3Cfs7yO1NKwDxaFVKh9tvUCRg7h2NjEo4lgI/eqEXI3MHmZOO3tcpVTfUVBZnBzoXneKHg/XW4CJDPmZZJv6L9Qp2HGdiG1a0gmFq3U41fDf2gSF8N3ip258V8Mx04QtXHGlyL5Xv/C9TiTwQmPyrTOFZjyrySzIhZ3N/RxgeXzKrtgoKcjEg3LslTwqYPJ/QQmP+Lng2F2og3RcbVNMQgX/USrGChy+VS4pZpYmFp47Wcnf5heOos0Rnml/nYz8D87BW9X0lU4GxgnCkK+wYBjGR1Il8KPqZA+2xpN4WFsvewW/quP10fUHoHRXJMbyyZM1vIrCFl95e8LeLmMOjqRR5duRaYGVjINGlbr56TZf3C41Tw0qTtqmHiH5xtY9pZxXnl33O7UJeCiHPDWkosNzjqLHlgzA+v92Rj3OzEyo98jOiIBgdobawbQKx98iAZEbd7aa4nX9MzAIbhfDI9Mwi2mqQB4yV614zyhchf1hE5PNjFil7su3PEvnGOX4SRflLmIl9dw1zJoPin67vof8wF65jGazSO3fzew2PkBhr593s3XKK0ln+Rs113kBv5W1I6/j5rvHgsNKhPvHQ2ibOc0Lf4wC+bmGF3aS86PSXBKKqV6ME7AdD9ipk0A/iVfxXQF4GL9T57eTsg4EPqu3X28EyzTrQDyV2rl5gCB3cXZkL2+wQ771lHfmZnt99XNwqN9WvfC2SxasU+Ceh3808r+MDAoeyiJjm9elijHCad4ds79W7lsvZQlO91uvH0gYDYPEfhD9MVEyaNPQL2HoRfTGosMeGFdNyF3D7VyWgTkZVvCX47pH0pBIBoRJ9FrZmgLzLd2Ho9o3YfF2scP6XLh4sd9cFgvz0M4zHBE/5RZR0D0oQw04zirhLofaJ/Dvq8gHUMiFrWnLDealQTCw4Kr7MCo2oKTq0F814pD0+UoaYgRypsvaBuLrL1aFWgLdJp/14cqM+ZsO5HLs="
+}
