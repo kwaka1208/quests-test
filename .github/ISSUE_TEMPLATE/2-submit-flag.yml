@@ -1,0 +1,25 @@
+name: Submit a Flag
+description: クエストをクリアしたら、ここでフラグを提出します。
+title: "Flag submission"
+labels: ["flag"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        `quest.py` が表示したフラグを貼りつけてください。
+        フラグは**あなたの** GitHub アカウント専用です。ほかの人のフラグを写しても正解になりません。
+  - type: input
+    id: quest
+    attributes:
+      label: Quest
+      description: クエストのフォルダの名前です。
+      placeholder: quest-00
+    validations:
+      required: true
+  - type: input
+    id: flag
+    attributes:
+      label: Flag
+      placeholder: FLAG{xxxxxxxxxx}
+    validations:
+      required: true

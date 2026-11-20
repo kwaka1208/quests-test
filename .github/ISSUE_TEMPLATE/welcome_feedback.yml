@@ -1,0 +1,35 @@
+name: Welcome quest feedback
+description: ほかの人の「新人のためのクエスト」（welcome/）を遊んだ感想を送ります（第14回）。答えは書かないでください。
+title: "Feedback on welcome/"
+labels: ["welcome"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        タイトルの最後に、遊んだクエストのフォルダの名前を足してください（例: `Feedback on welcome/hana`）。
+        **答えの単語は書かないでください。** まだ解いている人がいます。答えは、作った人に直接伝えましょう。
+        各欄は英語で書きます。
+  - type: input
+    id: quest
+    attributes:
+      label: Quest
+      description: 遊んだクエストのフォルダ
+      placeholder: welcome/hana
+    validations:
+      required: true
+  - type: textarea
+    id: lost
+    attributes:
+      label: Where I got lost
+      description: どこで迷いましたか？ README のどの部分がわかりにくかったですか？ 迷わなかったら、そう書きます。
+      placeholder: |
+        In "Usage", I did not know which folder to start in.
+    validations:
+      required: true
+  - type: textarea
+    id: liked
+    attributes:
+      label: What I liked
+      description: よかったところを1つ書きます。
+    validations:
+      required: true

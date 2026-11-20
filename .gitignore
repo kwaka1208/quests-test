@@ -1,0 +1,9 @@
+.progress.json
+*.key
+*.badge
+__pycache__/
+.DS_Store
+# practice repositories and files that the quests make
+quest-*/history/
+quest-*/checklist/
+quest-*/my-orders.nox

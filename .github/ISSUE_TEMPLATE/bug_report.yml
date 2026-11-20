@@ -1,0 +1,50 @@
+name: Bug report
+description: 誤字、リンク切れ、動かないところを報告します（英語で書きます）。
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        報告ありがとうございます！ ここには**答えやフラグを書かないでください**。各欄は英語で書きます。
+  - type: input
+    id: quest
+    attributes:
+      label: Quest
+      description: どのクエストの問題ですか？
+      placeholder: quest-00
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: 何をしましたか？ 1行に1つずつ手順を書きます。
+      placeholder: |
+        1. Run `python quest.py --stage 2`
+        2. Type `mira`
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+      description: 本当はどうなるはずでしたか？
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+      description: 実際には何が起きましたか？ エラーメッセージがあれば貼りつけます。
+      render: text
+    validations:
+      required: true
+  - type: dropdown
+    id: os
+    attributes:
+      label: Operating system
+      options:
+        - Windows
+        - macOS
+        - Linux
+        - Other

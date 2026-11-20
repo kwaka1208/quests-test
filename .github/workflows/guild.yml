@@ -1,0 +1,29 @@
+name: Flag bot
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  process:
+    # Check a new Join / Flag issue, reply, and record the result with labels.
+    # Other issues (bug reports, team pages, welcome feedback) are left alone.
+    # The `issues` event runs the workflow of this repository's main branch, so pull requests
+    # from forks cannot change it or read the secrets. Never switch this to pull_request_target.
+    if: >-
+      contains(github.event.issue.labels.*.name, 'join') ||
+      contains(github.event.issue.labels.*.name, 'flag')
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - uses: actions/checkout@v4
+      - name: Process issue
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          QUEST_ANSWERS: ${{ secrets.QUEST_ANSWERS }}
+          GUILD_ROSTER: ${{ secrets.GUILD_ROSTER }}
+        run: python3 .github/scripts/guild.py process

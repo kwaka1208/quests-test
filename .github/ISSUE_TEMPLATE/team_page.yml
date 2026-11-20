@@ -1,0 +1,19 @@
+name: Team page
+description: チームのページ（team/YOUR-ID.md）を足すための Issue です（Quest 14 のステージ3）。
+title: "Add a team page for "
+labels: ["team-page"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        タイトルの最後に、あなたの GitHub ID を足してください（例: `Add a team page for hana`）。
+        ここには**本名や、学校・会社の名前を書かないでください**。
+  - type: textarea
+    id: request
+    attributes:
+      label: Request
+      description: 何をしたいかを英語で書きます。このままでもかまいません。
+      value: |
+        I am a new member of the team. I want to add my page to the `team` folder.
+    validations:
+      required: true

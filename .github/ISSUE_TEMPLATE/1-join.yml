@@ -1,0 +1,19 @@
+name: Join ルーキークエストテスト
+description: このクラスのメンバーとして登録します。最初にこれをしてください！
+title: "Join ルーキークエストテスト"
+labels: ["join"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ようこそ！ このフォームに記入して、クラスに参加しましょう。
+        このリポジトリは**公開**されています。インターネット上の誰でも読めます。
+        **本名は書かないでください。**
+  - type: input
+    id: handle
+    attributes:
+      label: Handle
+      description: このクラスで使う名前です（bot の返信と、先生の記録に使います）。英字・数字・空白・`-`・`_` で1〜20文字。本名は使わないこと！
+      placeholder: Falcon
+    validations:
+      required: true
