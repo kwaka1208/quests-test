@@ -1,11 +1,11 @@
-# TODO: your GitHub ID
+# kwaka1208b
 
-TODO: Write one or two sentences about you. What do you like? What do you want to make?
+I'm a engineer.
 
 ## What I learned at Northwind
 
-- TODO
+Programming
 
 ## What I want to learn next
 
-- TODO
+3D modeling
